@@ -1,0 +1,41 @@
+id,title_romaji,title_english,episodes,status,average_score,popularity,genres,studios,source
+1,Cowboy Bebop,Cowboy Bebop,26.0,FINISHED,86,372155,"Action, Adventure, Drama, Sci-Fi","Sunrise, Bandai Visual, Bandai Entertainment",ORIGINAL
+6,TRIGUN,Trigun,26.0,FINISHED,80,133438,"Action, Adventure, Comedy, Drama, Sci-Fi","MADHOUSE, Nippon Victor, Arts Pro, Funimation",MANGA
+7,Witch Hunter ROBIN,Witch Hunter ROBIN,26.0,FINISHED,68,18149,"Action, Drama, Mystery, Supernatural","Sunrise, Bandai Visual, Bandai Entertainment",ORIGINAL
+8,Bouken Ou Beet,Beet the Vandel Buster,52.0,FINISHED,65,2552,"Adventure, Fantasy, Supernatural","Toei Animation, Dentsu, TV Tokyo",MANGA
+15,Eyeshield 21,Eyeshield 21,145.0,FINISHED,76,28511,"Action, Comedy, Sports","Studio Gallop, NAS, Nihon Ad Systems, Sentai Filmworks, TV Tokyo Music, Animation Planet",MANGA
+16,Hachimitsu to Clover,Honey and Clover,24.0,FINISHED,76,49581,"Comedy, Drama, Romance, Slice of Life","J.C. Staff, Nomad, Genco, Viz Media, Asmik Ace, Dentsu, Discotek, Fuji TV",MANGA
+17,Hungry Heart: Wild Striker,,52.0,FINISHED,71,4064,"Comedy, Slice of Life, Sports","Nippon Animation, Fuji TV",MANGA
+18,Initial D FOURTH STAGE,Initial D 4th Stage,24.0,FINISHED,80,39022,"Action, Drama, Sports","OB Planning, Funimation, A.C.G.T., Studio Jack",MANGA
+19,MONSTER,Monster,74.0,FINISHED,88,249121,"Drama, Horror, Mystery, Psychological, Thriller","MADHOUSE, VAP, Viz Media, Nippon Television Network",MANGA
+20,NARUTO,Naruto,220.0,FINISHED,79,571233,"Action, Adventure, Comedy, Drama, Fantasy, Supernatural","Studio Pierrot, TV Tokyo, Aniplex, Viz Media, Shueisha, KSS, SME Visual Works, Rakuonsha",MANGA
+21,ONE PIECE,ONE PIECE,,RELEASING,88,567507,"Action, Adventure, Comedy, Drama, Fantasy","Toei Animation, Funimation, Fuji TV, 4Kids Entertainment, TAP, Asatsu DK, Magic Bus, Mushi Production, Studio Guts, Asahi Production, Avex Pictures",MANGA
+22,Tennis no Ouji-sama,The Prince of Tennis,178.0,FINISHED,75,30151,"Action, Comedy, Sports","Production I.G, Trans Arts, Viz Media, NAS, Funimation",MANGA
+23,Ring ni Kakero 1,,12.0,FINISHED,60,1380,"Action, Sports","Toei Animation, Marvelous Entertainment",MANGA
+24,School Rumble,School Rumble,26.0,FINISHED,76,49958,"Comedy, Romance, Slice of Life","TV Tokyo, Sotsu, Marvelous Entertainment, Starchild Records, Funimation, Media Factory, Studio Comet, DAX Production, Studio Jack",MANGA
+25,Sunabouzu,Desert Punk,24.0,FINISHED,68,23778,"Action, Adventure, Comedy, Ecchi, Sci-Fi","GONZO, GDH, Funimation, Pony Canyon, CBC",MANGA
+26,TEXHNOLYZE,Texhnolyze,22.0,FINISHED,77,64737,"Action, Drama, Psychological, Sci-Fi","MADHOUSE, Group TAC, Funimation, Rondo Robe, Fuji TV, Pioneer LDC",ORIGINAL
+27,Trinity Blood,Trinity Blood,24.0,FINISHED,67,22769,"Action, Drama, Horror, Sci-Fi, Supernatural","GONZO, Funimation",LIGHT_NOVEL
+28,Yakitate!! Japan,,69.0,FINISHED,75,16894,Comedy,"Sunrise, TV Tokyo, Aniplex, d-rights",MANGA
+29,Zipang,,26.0,FINISHED,71,5341,"Action, Sci-Fi","NBCUniversal Entertainment Japan, Studio DEEN, Marvelous Entertainment",MANGA
+30,Shin Seiki Evangelion,Neon Genesis Evangelion,26.0,FINISHED,83,378532,"Action, Drama, Mecha, Mystery, Psychological, Sci-Fi","Gainax, TV Tokyo, ADV Films, Kadokawa Shoten, NAS, Tatsunoko Production, GKids, Madman Entertainment",ORIGINAL
+33,Kenpuu Denki Berserk,Berserk,25.0,FINISHED,84,131549,"Action, Adventure, Drama, Fantasy, Horror, Supernatural","OLM, VAP, Media Blasters, NYAV Post, Nippon Television Network, Hakusensha",MANGA
+45,Rurouni Kenshin: Meiji Kenkaku Romantan,Rurouni Kenshin,94.0,FINISHED,79,75392,"Action, Adventure, Comedy, Drama, Romance","Studio Gallop, Studio DEEN, SME Visual Works, Fuji TV, Media Blasters, Aniplex of America",MANGA
+48,.hack//SIGN,.hack//Sign,26.0,FINISHED,65,28842,"Adventure, Fantasy, Mystery, Sci-Fi","Bee Train, Bandai Visual, Yomiko Advertising, Bandai, CyberConnect2, Bandai Entertainment",ORIGINAL
+50,Aa! Megami-sama! (TV),Oh! My Goddess (TV),24.0,FINISHED,69,21189,"Comedy, Romance, Supernatural","Bandai Visual, AIC, TBS, Media Blasters, NYAV Post",MANGA
+52,Kidou Tenshi Angelic Layer,Angelic Layer,26.0,FINISHED,69,9305,"Comedy, Drama, Sci-Fi, Sports","bones, TV Tokyo Music, Sentai Filmworks",MANGA
+53,Ai Yori Aoshi,Ai Yori Aoshi,24.0,FINISHED,67,15027,"Comedy, Drama, Romance, Slice of Life","J.C. Staff, Funimation, Movic, Fuji TV, Pioneer LDC, Cosmic Ray",MANGA
+55,Arc the Lad,,26.0,FINISHED,61,2486,"Action, Adventure, Fantasy, Horror, Sci-Fi","Bee Train, Sony Pictures Entertainment, Aniplex, ADV Films",VIDEO_GAME
+56,Avenger,,13.0,FINISHED,55,2941,"Adventure, Fantasy, Sci-Fi","Bee Train, Bandai Entertainment, Yomiuri Advertising",ORIGINAL
+57,BECK,Beck: Mongolian Chop Squad,26.0,FINISHED,80,65158,"Comedy, Drama, Music, Slice of Life","MADHOUSE, Marvelous Entertainment, Starchild Records, Funimation, Asatsu DK, Kodansha",MANGA
+58,BLUE GENDER,Blue Gender,26.0,FINISHED,66,13353,"Adventure, Drama, Horror, Mecha, Psychological, Romance, Sci-Fi","AIC, Funimation, Youmex, Toshiba EMI",ORIGINAL
+59,Chobits,Chobits,26.0,FINISHED,70,72738,"Comedy, Drama, Ecchi, Romance, Sci-Fi","MADHOUSE, NBCUniversal Entertainment Japan, Funimation, TBS, Pioneer LDC",MANGA
+60,Chrno Crusade,Chrono Crusade,24.0,FINISHED,71,28015,"Action, Romance, Supernatural","GONZO, Funimation, Lantis, Kadokawa Shoten",MANGA
+61,D.N.Angel,D.N.Angel,26.0,FINISHED,66,19541,"Action, Comedy, Fantasy, Romance","Xebec, ADV Films, Kadokawa Shoten, Discotek",MANGA
+62,D.C.: Da Capo,D.C.~Da Capo~,26.0,FINISHED,62,11615,"Drama, Romance","feel., Lantis, ZEXCS",VISUAL_NOVEL
+63,DearS,DearS,12.0,FINISHED,59,19746,"Comedy, Ecchi, Romance, Sci-Fi","Bandai Visual, Hal Film Maker, Genco, Lantis, Daume, Discotek",MANGA
+64,Rozen Maiden,Rozen Maiden,12.0,FINISHED,70,31590,"Action, Comedy, Drama, Supernatural","Nomad, Mellow Head, Pony Canyon, Sentai Filmworks, Memory-Tech, Studio Jack",MANGA
+65,Rozen Maiden: Träumend,Rozen Maiden: Dreaming,12.0,FINISHED,72,14468,"Action, Comedy, Drama","Nomad, Mellow Head, TBS, Sentai Filmworks",MANGA
+66,Azumanga Daiou THE ANIMATION,Azumanga Daioh,26.0,FINISHED,79,78905,"Comedy, Slice of Life","J.C. Staff, Genco, Lantis, Imagica, TV Tokyo Music, Cosmic Ray, Sentai Filmworks, J.C. Staff",MANGA
+67,Basilisk: Kouga Ninpouchou,Basilisk,24.0,FINISHED,71,26750,"Action, Adventure, Drama, Romance","GONZO, GDH, Funimation, Kodansha",MANGA
+68,Black Cat,Black Cat,23.0,FINISHED,69,34757,"Adventure, Comedy, Sci-Fi","GONZO, GDH, Dentsu, Funimation, TBS",MANGA
