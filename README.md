@@ -1,23 +1,24 @@
-# BU CS 506: Final Project 
+
+# BU CS 506: Final Project
+
+  
 
 ## Project Proposal: Predicting Consensus Anime Ratings
 
+  
+
 ### 1. Description of the Project
 
-This project aims to predict a consensus "true" anime rating by aggregating scores from multiple platforms, such as MyAnimeList (MAL) and AniList. I need to see—no, I need to know—if people have voted correctly or if they statistically have trash taste. This is no laughing matter; Trash Taste Disease has plagued review sites for decades, with people writing emotional reviews after watching just one episode. 
+This project aims to predict a consensus "true" rating for anime by leveraging data from AniList, one of the largest anime rating platforms. The core objective is to develop a model capable of determining an objective score for any given anime, independent of subjective biases or emotional reviews.
 
-*"You don’t know if the show is good or bad—you've only watched one episode; keep your opinions to yourself you uncultured swine!"*
+For years, "Trash Taste Disease" has skewed online ratings, with users writing overly emotional or incomplete reviews—sometimes after watching just one episode. This project seeks to mitigate such biases by analyzing comprehensive features, such as popularity, genre, studio, season, and other metadata, to calculate a statistically grounded rating.
 
-I'm sorry, I got off on a tangent. Anyway, a Terminal Case of Bad Reviews is a very bad disease to suffer from. I really hope all you people get cured. But until then my project will help you. I have searched far and wide for datasets with the best taste and I will use them to cure you. The same way we created braille for the blind, wheelchairs for the disabled, I have created this program to calibrate your taste. No need to thank me.
+By the end of this project, the goal is to provide a clear, data-driven consensus score that offers an objective evaluation of anime titles. This approach not only aims to improve the accuracy of ratings but also helps address long-standing inconsistencies in user-generated scores on platforms like AniList.
 
-**(serious)**
-
-This project aims to predict a consensus "true" anime rating by aggregating scores from multiple platforms, such as MyAnimeList (MAL) and AniList. Anime ratings often vary across platforms due to differences in user demographics and rating systems. By combining these ratings, the project seeks to provide an unbiased score that reflects the general sentiment toward an anime. 
-
-The goal at the end of this project is to find the objective score of any piece of anime. *(For those unfamiliar, anime refers to Japanese animated media—similar to cartoons but often encompassing a wide range of genres and complexities.)*
+*(For those unfamiliar, anime refers to Japanese animated media—a diverse and complex art form encompassing a wide range of genres and storytelling styles.)*
 
 ---
-
+  
 ### 2. Clear Goal(s)
 
 - Successfully predict a consensus rating for anime titles based on features like genre, studio, episode count, and airing season.
@@ -28,47 +29,72 @@ The goal at the end of this project is to find the objective score of any piece 
 ### 3. Data Collection
 
 **Data Sources**:
-- MyAnimeList API
 - AniList API
 
 **Data to Collect**:
-- Anime titles, ratings, and user counts per platform.
+- Anime titles, ratings, and user count per platform.
 - Features: genres, studios, episode count, airing season and year, source material, popularity metrics (e.g., review count).
 
 Data will be collected via API calls and cleaned to ensure consistency across platforms.
 
 ---
-
 ### 4. Modeling Approach
 
 **Model Selection**:
-- Baseline: Linear Regression.
-- Advanced: Tree-based models like XGBoost or LightGBM.
+- XGBoost: Chosen for its efficiency, scalability, and ability to handle high-dimensional data.
+- Hyperparameter tuning will optimize parameters like learning rate, max depth, and subsample ratio to achieve the best performance.
 
 The target variable will be the weighted average of ratings across platforms, with weights based on the number of users.
 
 ---
-
 ### 5. Data Visualization
 
 #### a. Rating Distribution Across Platforms
-**Purpose**: Compare how ratings differ between MyAnimeList (MAL) and AniList.
+**Purpose**: Understand how ratings vary between different anime and platforms, identifying patterns or outliers.
 
 **Visualization**:
-- Histogram or Kernel Density Plot for ratings from each platform.
-- Overlay histograms to show differences in rating distributions.
+- Histogram or Kernel Density Plot: To display the overall distribution of ratings.
+- Overlay histograms to show differences in rating distributions across genres or studios.
 
 #### b. Rating Discrepancies
-**Purpose**: Highlight differences between ratings for the same anime on different platforms.
+**Purpose**: Highlight discrepancies between user-generated ratings and the predicted consensus rating.
 
 **Visualization**:
-- Scatter Plot: Plot MAL ratings on the x-axis and AniList ratings (normalized) on the y-axis.
-  - Include a 45° reference line to easily spot discrepancies.
 - Bar Plot: Show the average rating difference for various genres or studios.
 
 ---
-
 ### 6. Testing & Reproducibility
 
 **Test Plan**:
 - Train-test split: Use 80% of data for training and 20% for testing.
+- Hyperparameter tuning will use cross-validation to ensure robustness.
+
+**Reproducibility**:
+- Ensure code is modular and well-documented for ease of replication.
+- Include requirements.txt for environment setup.
+
+---
+
+## How to Build and Use the Code
+
+1. **Setup Environment**:
+   - Install required dependencies: `pip install -r requirements.txt`.
+   - Ensure Python version 3.8 or higher.
+2. **Data Collection, Model Training, and Visualizations**:
+   - All in code.py 
+
+## How to Contribute
+
+1. Fork the repository and create a new branch.
+2. Make your changes and test thoroughly.
+3. Submit a pull request with a clear description of your changes.
+
+## How to Test the Code
+
+1. Run `pytest` to ensure all tests pass.
+2. Use `test_model.py` to validate model performance.
+
+## Supported Environment
+
+- Python 3.8+
+- Tested on Windows 10 

@@ -5,7 +5,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 1614,Captain Tsubasa: Road to 2002,Captain Tsubasa,52.0,FINISHED,71.0,9613,171,"Action, Sports",MADHOUSE,MANGA,FALL,2001-10-7,2002-10-6
 833,Choujuushin Gravion,Super Heavy God Gravion,13.0,FINISHED,61.0,3290,24,"Adventure, Comedy, Mecha, Sci-Fi","GONZO, ADV Films, Imagica",ORIGINAL,FALL,2002-10-7,2002-12-16
 2934,Shiawase Sou no Okojo-san,,51.0,FINISHED,62.0,1116,6,Comedy,Radix,MANGA,FALL,2001-10-2,2002-9-24
-10719,Boku wa Tomodachi ga Sukunai,Haganai,12.0,FINISHED,68.0,138134,1422,"Comedy, Ecchi, Romance, Slice of Life","Funimation, Media Factory, TBS, AIC Build, Bushiroad",LIGHT_NOVEL,FALL,2011-10-7,2011-12-23
+10719,Boku wa Tomodachi ga Sukunai,Haganai,12.0,FINISHED,68.0,138161,1422,"Comedy, Ecchi, Romance, Slice of Life","Funimation, Media Factory, TBS, AIC Build, Bushiroad",LIGHT_NOVEL,FALL,2011-10-7,2011-12-23
 634,Koi Kaze,,13.0,FINISHED,66.0,17641,152,"Drama, Psychological, Romance, Slice of Life","NBCUniversal Entertainment Japan, TV Asahi, Rondo Robe, A.C.G.T.",MANGA,SPRING,2004-4-2,2004-6-18
 2738,Kasumin 3rd Series,,26.0,FINISHED,60.0,307,4,"Fantasy, Slice of Life","OLM, NHK",,SPRING,2003-4-9,2003-10-1
 3619,Nanako SOS,Nanako SOS,39.0,FINISHED,62.0,795,8,Comedy,Kokusai Eigasha,MANGA,SPRING,1983-4-2,1983-12-24
@@ -34,7 +34,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 3838,Himitsu no Akko-chan 2,,61.0,FINISHED,61.0,668,16,"Comedy, Mahou Shoujo",Toei Animation,,FALL,1988-10-9,1989-12-24
 1327,Aoki Densetsu Shoot!,,58.0,FINISHED,69.0,2666,23,"Action, Comedy, Drama, Romance, Sports","Toei Animation, Fuji TV",MANGA,FALL,1993-11-7,1994-12-25
 10257,Pretty Rhythm: Aurora Dream,,51.0,FINISHED,72.0,5440,139,"Drama, Music, Romance, Sports","Nomad, Tatsunoko Production, TV Tokyo, Shogakukan-Shueisha Productions, Avex Entertainment",VIDEO_GAME,SPRING,2011-4-9,2012-3-31
-10444,Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku,Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms,24.0,FINISHED,67.0,5754,79,"Action, Adventure, Comedy, Fantasy, Sci-Fi",Toei Animation,ORIGINAL,SPRING,2011-4-3,2011-9-25
+10444,Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku,Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms,24.0,FINISHED,67.0,5756,79,"Action, Adventure, Comedy, Fantasy, Sci-Fi",Toei Animation,ORIGINAL,SPRING,2011-4-3,2011-9-25
 3129,Kaibutsu-kun,,49.0,FINISHED,60.0,523,10,"Comedy, Horror","TBS, Tokyo Movie, Tokyo Movie Shinsha",MANGA,SPRING,1968-4-21,1969-3-23
 2581,Kidou Senshi Gundam 00,Mobile Suit Gundam 00,25.0,FINISHED,78.0,34987,1004,"Action, Drama, Mecha, Sci-Fi","Sunrise, Sotsu, Asatsu DK, Mainichi Broadcasting System, Bandai Entertainment, Sony Music Entertainment",ORIGINAL,FALL,2007-10-6,2008-3-29
 740,Bishoujo Senshi Sailor Moon R,Sailor Moon R,43.0,FINISHED,75.0,29538,525,"Action, Fantasy, Mahou Shoujo, Romance, Supernatural","Toei Animation, TV Asahi, Viz Media, Madman Entertainment",MANGA,SPRING,1993-3-6,1994-3-12
@@ -134,11 +134,11 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 26,TEXHNOLYZE,Texhnolyze,22.0,FINISHED,77.0,64756,2362,"Action, Drama, Psychological, Sci-Fi","MADHOUSE, Group TAC, Funimation, Rondo Robe, Fuji TV, Pioneer LDC",ORIGINAL,SPRING,2003-4-17,2003-9-25
 1664,Babel Nisei (2001),Babel II: Beyond Infinity,13.0,FINISHED,57.0,1010,10,"Action, Adventure, Mystery, Sci-Fi, Supernatural","Vega Entertainment, Media Blasters, Tsuburaya Eizou, MediaNet",MANGA,FALL,2001-10-5,2001-12-28
 2268,Transformers Generation 1,Transformers Generation 1,98.0,FINISHED,68.0,1977,93,"Adventure, Mecha, Sci-Fi","Toei Animation, Hasbro, AKOM",,FALL,1984-9-17,1987-11-11
-10460,Kimi to Boku.,You and Me.,13.0,FINISHED,73.0,33658,401,"Comedy, Drama, Romance, Slice of Life","J.C. Staff, TV Tokyo, Aniplex, Square Enix, NAS, Movic, Kimi To Boku Production Partners",MANGA,FALL,2011-10-4,2011-12-27
+10460,Kimi to Boku.,You and Me.,13.0,FINISHED,73.0,33665,401,"Comedy, Drama, Romance, Slice of Life","J.C. Staff, TV Tokyo, Aniplex, Square Enix, NAS, Movic, Kimi To Boku Production Partners",MANGA,FALL,2011-10-4,2011-12-27
 5763,Uchuu Kuubo Blue Noah,Space Carrier Blue Noah,24.0,FINISHED,60.0,731,8,"Action, Drama, Sci-Fi",Academy Productions,,FALL,1979-10-13,1980-3-30
 2282,Tezuka Osamu no Kyuuyaku Seisho Monogatari,In The Beginning: The Bible Stories,26.0,FINISHED,62.0,1067,19,"Action, Drama",Tezuka Productions,OTHER,SPRING,1997-4-1,1997-5-9
 927,Transformers: Superlink,Transformers: Energon,51.0,FINISHED,54.0,1387,25,"Adventure, Mecha, Sci-Fi","Actas, Hasbro, TV Tokyo, NAS",OTHER,WINTER,2004-1-9,2004-12-24
-10447,Aquarion EVOL,Aquarion EVOL,26.0,FINISHED,67.0,16521,176,"Action, Drama, Fantasy, Mecha, Romance, Sci-Fi","Satelight, Funimation, Media Factory, Bandai, 8-bit",ORIGINAL,WINTER,2012-1-9,2012-6-25
+10447,Aquarion EVOL,Aquarion EVOL,26.0,FINISHED,67.0,16525,176,"Action, Drama, Fantasy, Mecha, Romance, Sci-Fi","Satelight, Funimation, Media Factory, Bandai, 8-bit",ORIGINAL,WINTER,2012-1-9,2012-6-25
 290,Seikai no Monshou,Crest of the Stars,13.0,FINISHED,72.0,12842,137,"Action, Romance, Sci-Fi","Sunrise, Bandai Visual, WOWOW, BeSTACK, Funimation",OTHER,WINTER,1999-1-2,1999-3-27
 3437,Mister Ajikko,,99.0,FINISHED,66.0,1358,13,"Comedy, Drama","Sunrise, TV Tokyo",MANGA,FALL,1987-10-8,1989-9-28
 2818,Madou King Granzort,Mado King Granzort,41.0,FINISHED,63.0,851,16,"Action, Comedy, Fantasy, Mecha, Sci-Fi",Sunrise,ORIGINAL,SPRING,1989-4-7,1990-3-2
@@ -160,7 +160,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 159,Boukyaku no Senritsu,Melody of Oblivion,24.0,FINISHED,58.0,3494,21,"Action, Adventure, Fantasy, Horror, Mecha, Sci-Fi","Gainax, J.C. Staff, Kadokawa Shoten, KENMedia",MANGA,SPRING,2004-4-7,2004-9-22
 6149,Chibi Maruko-chan (1995),Chibi Maruko-chan,,RELEASING,70.0,1424,43,"Comedy, Slice of Life","Nippon Animation, Sakura Production",MANGA,SUMMER,1995-8-1,None-None-None
 998,BLUE SEED,Blue Seed,26.0,FINISHED,65.0,5564,44,"Action, Adventure, Comedy, Drama, Mystery","Production I.G, NAS, Movic, Ashi Productions, Discotek",MANGA,FALL,1994-10-5,1995-3-29
-10465,Manyuu Hikenchou,Manyu Scroll,12.0,FINISHED,56.0,16880,214,"Action, Comedy, Ecchi",Hoods Entertainment,MANGA,SUMMER,2011-7-11,2011-9-26
+10465,Manyuu Hikenchou,Manyu Scroll,12.0,FINISHED,56.0,16881,214,"Action, Comedy, Ecchi",Hoods Entertainment,MANGA,SUMMER,2011-7-11,2011-9-26
 2224,Hikari no Densetsu,,19.0,FINISHED,63.0,1681,12,"Music, Romance, Sports",Tatsunoko Production,MANGA,SPRING,1986-5-3,1986-9-20
 1792,OVERMAN King Gainer,,26.0,FINISHED,68.0,4851,67,"Action, Adventure, Mecha, Sci-Fi","Sunrise, WOWOW, Discotek",ORIGINAL,FALL,2002-9-7,2003-3-22
 1470,City Hunter,,51.0,FINISHED,76.0,21480,501,"Action, Comedy, Mystery","Sunrise, Discotek",MANGA,SPRING,1987-4-6,1988-3-28
@@ -178,7 +178,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 1037,Saint Beast,,6.0,FINISHED,54.0,1455,8,"Action, Fantasy","Lantis, Tokyo Kids, Kids Station",ORIGINAL,SPRING,2003-5-8,2003-6-13
 3614,Yakushiji Ryouko no Kaiki Jikenbo,Ryoko's Case File,13.0,FINISHED,65.0,3880,23,"Mystery, Supernatural","Starchild Records, Doga Kobo, GANSIS",LIGHT_NOVEL,SUMMER,2008-7-6,2008-9-28
 9330,Dragon Crisis!,Dragon Crisis,12.0,FINISHED,61.0,26715,127,"Action, Romance, Supernatural","Studio DEEN, Yomiuri TV, Starchild Records, Kids Station, DAX Production",LIGHT_NOVEL,WINTER,2011-1-11,2011-3-29
-10572,Ro-Kyu-Bu!,Ro-Kyu-Bu ~ Fast Break!,12.0,FINISHED,63.0,17622,106,"Comedy, Ecchi, Sports","Barnum Studio, Magic Capsule, project No.9, Studio Blanc, ASCII Media Works",LIGHT_NOVEL,SUMMER,2011-7-1,2011-9-23
+10572,Ro-Kyu-Bu!,Ro-Kyu-Bu ~ Fast Break!,12.0,FINISHED,63.0,17625,106,"Comedy, Ecchi, Sports","Barnum Studio, Magic Capsule, project No.9, Studio Blanc, ASCII Media Works",LIGHT_NOVEL,SUMMER,2011-7-1,2011-9-23
 5075,Yuusha Keisatsu J-Decker,,48.0,FINISHED,72.0,1674,49,"Action, Adventure, Mecha, Sci-Fi",Sunrise,ORIGINAL,WINTER,1994-2-5,1995-1-28
 9383,Chie-chan Funsenki: Jarinko Chie,,39.0,FINISHED,,177,0,"Comedy, Drama, Slice of Life",,MANGA,FALL,1991-10-19,1992-9-22
 4933,Muu no Hakugei,The White Whale of Mu,26.0,FINISHED,63.0,674,5,"Action, Fantasy, Sci-Fi",,ORIGINAL,SPRING,1980-4-4,1980-9-26
@@ -191,7 +191,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 332,Doki Doki Densetsu: Mahoujin Guru Guru,Magical Circle Guru Guru 2,38.0,FINISHED,66.0,1094,7,"Comedy, Fantasy",Nippon Animation,MANGA,SPRING,2000-4-4,2000-12-26
 9253,Steins;Gate,Steins;Gate,24.0,FINISHED,89.0,472938,41335,"Drama, Psychological, Sci-Fi, Thriller","Frontier Works, Funimation, Media Factory, Movic, AT-X, White Fox, Kadokawa Pictures Japan, Nitroplus",VISUAL_NOVEL,SPRING,2011-4-6,2011-9-14
 1668,Bakuten Shoot Beyblade G Revolution,Beyblade G Revolution,52.0,FINISHED,66.0,9561,138,"Action, Adventure, Comedy, Sci-Fi, Sports","MADHOUSE, d-rights, Discotek, Nippon Animation",MANGA,WINTER,2003-1-6,2003-12-29
-10156,Sacred Seven,,12.0,FINISHED,61.0,12684,68,"Action, Sci-Fi","Sunrise, Bandai, Bandai Visual, Hakuhodo DY Music & Pictures, Mainichi Broadcasting System",ORIGINAL,SUMMER,2011-7-3,2011-9-16
+10156,Sacred Seven,,12.0,FINISHED,61.0,12685,68,"Action, Sci-Fi","Sunrise, Bandai, Bandai Visual, Hakuhodo DY Music & Pictures, Mainichi Broadcasting System",ORIGINAL,SUMMER,2011-7-3,2011-9-16
 4339,Ashita e Attack!,,23.0,FINISHED,57.0,907,7,"Drama, Sports","Nippon Animation, Fuji TV",ORIGINAL,SPRING,1977-4-4,1977-9-5
 8234,Moomin,,65.0,FINISHED,64.0,1752,17,"Adventure, Comedy, Fantasy, Slice of Life","Tokyo Movie Shinsha, Mushi Production",OTHER,FALL,1969-10-5,1970-12-27
 226,Elfen Lied,Elfen Lied,13.0,FINISHED,68.0,220739,4096,"Action, Drama, Ecchi, Horror, Psychological, Romance, Supernatural","VAP, Arms, Genco, ADV Films, A Line",MANGA,SUMMER,2004-7-25,2004-10-17
@@ -242,7 +242,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 5675,Basquash!,BASQUASH!,26.0,FINISHED,66.0,7951,34,"Mecha, Sci-Fi, Sports","Satelight, Maiden Japan",ORIGINAL,SPRING,2009-4-3,2009-10-2
 96,Kidou Butouden G Gundam,Mobile Fighter G Gundam,49.0,FINISHED,74.0,14317,639,"Action, Adventure, Drama, Mecha, Romance","Sunrise, TV Asahi, Bandai Entertainment",ORIGINAL,SPRING,1994-4-22,1995-3-31
 1498,BLACK BLOOD BROTHERS,Black Blood Brothers,12.0,FINISHED,66.0,10984,71,"Action, Comedy, Fantasy, Supernatural","Group TAC, Funimation, Toshiba Entertainment, Happinet Pictures, Studio Live, Hakuhodo DY Music & Pictures",LIGHT_NOVEL,FALL,2006-9-8,2006-11-24
-10308,Sengoku Otome: Momoiro Paradox,Battle Girls: Time Paradox,13.0,FINISHED,61.0,8243,38,"Action, Comedy, Ecchi, Sci-Fi","TMS Entertainment, Sentai Filmworks",VIDEO_GAME,SPRING,2011-4-5,2011-6-28
+10308,Sengoku Otome: Momoiro Paradox,Battle Girls: Time Paradox,13.0,FINISHED,61.0,8245,38,"Action, Comedy, Ecchi, Sci-Fi","TMS Entertainment, Sentai Filmworks",VIDEO_GAME,SPRING,2011-4-5,2011-6-28
 9289,Hanasaku Iroha,Hanasaku Iroha ~Blossoms for Tomorrow~,26.0,FINISHED,77.0,68587,986,"Comedy, Drama, Slice of Life","Bandai Visual, Yomiuri TV, Lantis, P.A. Works, Pony Canyon, NIS America Inc., Hakuhodo DY Music & Pictures",ORIGINAL,SPRING,2011-4-3,2011-9-25
 8630,Hidan no Aria,Aria the Scarlet Ammo,12.0,FINISHED,63.0,63676,466,"Action, Comedy, Ecchi, Romance","J.C. Staff, Funimation, TBS",LIGHT_NOVEL,SPRING,2011-4-15,2011-7-1
 630,Mahou Tsukai Tai! (TV),Magic User's Club! (TV),13.0,FINISHED,62.0,3462,24,"Comedy, Romance, Sci-Fi","MADHOUSE, Bandai Visual, Ashi Productions, Media Blasters, NYAV Post, Triangle Staff",MANGA,SUMMER,1999-7-7,1999-10-6
@@ -256,7 +256,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 5967,Kinnikuman II Sei: ULTIMATE MUSCLE,,13.0,FINISHED,68.0,1884,21,"Action, Comedy, Sci-Fi, Sports",Toei Animation,MANGA,SPRING,2004-4-7,2004-6-30
 171,Strange Dawn,,13.0,FINISHED,60.0,1977,9,"Adventure, Drama, Fantasy","Hal Film Maker, Pioneer LDC, WOWOW",ORIGINAL,SUMMER,2000-7-11,2000-9-26
 3655,Nabari no Ou,,26.0,FINISHED,67.0,22003,218,"Action, Drama, Psychological, Supernatural","J.C. Staff, Square Enix, Funimation",MANGA,SPRING,2008-4-7,2008-9-29
-10611,R-15,,12.0,FINISHED,59.0,15493,62,"Comedy, Ecchi, Romance","AIC, Remic, Kadokawa Shoten, Kadokawa Pictures Japan, KLOCKWORX, AMG MUSIC, Studio Kelmadick, Glovision",LIGHT_NOVEL,SUMMER,2011-7-10,2011-9-25
+10611,R-15,,12.0,FINISHED,59.0,15495,62,"Comedy, Ecchi, Romance","AIC, Remic, Kadokawa Shoten, Kadokawa Pictures Japan, KLOCKWORX, AMG MUSIC, Studio Kelmadick, Glovision",LIGHT_NOVEL,SUMMER,2011-7-10,2011-9-25
 1093,Oishinbo,,136.0,FINISHED,65.0,2023,39,"Drama, Slice of Life",Shin-Ei Animation,MANGA,FALL,1988-10-17,1992-3-17
 1067,Kishin Houkou Demonbane (2006),Roar of the Machine God Demonbane (2006),12.0,FINISHED,59.0,5173,23,"Action, Ecchi, Mecha, Romance",View Works,VISUAL_NOVEL,SPRING,2006-5-19,2006-8-18
 126,Futakoi Alternative,Futakoi Alternative,13.0,FINISHED,65.0,5609,48,"Comedy, Drama, Romance","ufotable, feel., Studio Flag, Lantis",ORIGINAL,SPRING,2005-4-7,2005-6-30
@@ -300,7 +300,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 1660,Kurogane Communication,Kurogane Communication,24.0,FINISHED,62.0,1736,13,"Action, Adventure, Drama, Sci-Fi","APPP, Pony Canyon, Media Blasters",MANGA,FALL,1998-10-5,1999-3-29
 132,GetBackers: Dakkanya,GetBackers,49.0,FINISHED,71.0,16726,251,"Action, Comedy, Drama, Mystery","Studio DEEN, TBS, Kodansha, Rondo Robe, Rakuonsha, Sentai Filmworks",MANGA,FALL,2002-10-5,2003-9-20
 9562,Tachumaru Gekijou,,26.0,FINISHED,,124,0,Comedy,Tatsunoko Production,,FALL,2010-10-4,2011-3-29
-10165,Nichijou,Nichijou - My Ordinary Life,26.0,FINISHED,83.0,194647,9354,"Comedy, Slice of Life","Kyoto Animation, Lantis, Kadokawa Shoten, Movic, Rakuonsha, Bandai Entertainment, Kadokawa Pictures Japan, KLOCKWORX, Animation Do",MANGA,SPRING,2011-4-3,2011-9-25
+10165,Nichijou,Nichijou - My Ordinary Life,26.0,FINISHED,83.0,194694,9354,"Comedy, Slice of Life","Kyoto Animation, Lantis, Kadokawa Shoten, Movic, Rakuonsha, Bandai Entertainment, Kadokawa Pictures Japan, KLOCKWORX, Animation Do",MANGA,SPRING,2011-4-3,2011-9-25
 914,Ike! Ina-chuu Takkyuubu,The Ping-Pong Club,26.0,FINISHED,65.0,3745,40,"Comedy, Ecchi, Sports","Trans Arts, Kitty Film, Studio Hibari, TBS, Central Park Media, Grouper Production, Studio Jack",MANGA,SPRING,1995-4-6,1995-9-28
 8795,Panty & Stocking with Garterbelt,Panty & Stocking with Garterbelt,13.0,FINISHED,75.0,84697,2896,"Action, Comedy, Ecchi, Supernatural","Gainax, Funimation, Kadokawa Shoten, Half H.P Studio, AT-X, Kadokawa Pictures Japan, KLOCKWORX, flying DOG, Kadokawa Contents Gate, Manga Entertainment",ORIGINAL,FALL,2010-10-2,2010-12-25
 92,Kidou Shin Seiki Gundam X,After War Gundam X,39.0,FINISHED,71.0,8589,192,"Adventure, Drama, Mecha, Sci-Fi",Sunrise,ORIGINAL,SPRING,1996-4-5,1996-12-28
@@ -365,7 +365,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 4415,World Destruction: Sekai Bokumetsu no Rokunin,Sands of Destruction,13.0,FINISHED,64.0,6946,38,"Adventure, Fantasy","Production I.G, Funimation, Sega Games",VIDEO_GAME,SUMMER,2008-7-8,2008-9-30
 10282,Manga Nippon Mukashibanashi,,12.0,FINISHED,59.0,355,8,,"Group TAC, Mainichi Broadcasting System",,WINTER,1975-1-7,1975-3-25
 2813,Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak,Alfred J. Quack,52.0,FINISHED,65.0,1477,21,"Adventure, Comedy, Drama, Fantasy",Telescreen BV,OTHER,SPRING,1989-4-3,1990-3-29
-10378,Shinryaku!? Ika Musume,Squid Girl 2,12.0,FINISHED,73.0,20963,149,"Comedy, Slice of Life","TV Tokyo, diomedéa, Nomad, Lantis, Pony Canyon, Ashi Productions, Encourage Films, TV Tokyo Music, Studio Jack",MANGA,FALL,2011-9-27,2011-12-25
+10378,Shinryaku!? Ika Musume,Squid Girl 2,12.0,FINISHED,73.0,20967,149,"Comedy, Slice of Life","TV Tokyo, diomedéa, Nomad, Lantis, Pony Canyon, Ashi Productions, Encourage Films, TV Tokyo Music, Studio Jack",MANGA,FALL,2011-9-27,2011-12-25
 4801,Michel,Michel,26.0,FINISHED,,224,2,"Adventure, Fantasy","ADV Films, DR Movie",,,2003-6-6,2003-12-11
 1391,Shin Seiki GPX Cyber Formula,Future GPX Cyber Formula,37.0,FINISHED,69.0,2979,43,"Action, Sci-Fi, Sports","Sunrise, Bandai Entertainment, Nippon Television Network, NAS, ASATSU, VAP",ORIGINAL,SPRING,1991-3-15,1991-12-20
 3810,Mori no Youki na Kobito-tachi: Belfy to Lillibit,The Littl' Bits,26.0,FINISHED,54.0,577,10,"Adventure, Comedy",Tatsunoko Production,,WINTER,1980-1-7,1980-6-30
@@ -413,7 +413,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 306,Abenobashi Mahou☆Shoutengai,Magical Shopping Arcade Abenobashi,13.0,FINISHED,69.0,18824,180,"Comedy, Ecchi, Fantasy","Gainax, MADHOUSE, ADV Films, Imagica",ORIGINAL,SPRING,2002-4-4,2002-6-27
 5153,Kikou Kai Galient,,25.0,FINISHED,62.0,1519,17,"Fantasy, Mecha, Sci-Fi",Sunrise,ORIGINAL,FALL,1984-10-5,1985-3-29
 205,Samurai Champloo,Samurai Champloo,26.0,FINISHED,84.0,221342,12102,"Action, Adventure, Comedy","Manglobe, Fuji TV",ORIGINAL,SPRING,2004-5-20,2005-3-19
-10396,Ben-To,Ben-To,12.0,FINISHED,68.0,59751,621,"Action, Comedy, Ecchi","AT-X, David Production",LIGHT_NOVEL,FALL,2011-10-9,2011-12-25
+10396,Ben-To,Ben-To,12.0,FINISHED,68.0,59770,621,"Action, Comedy, Ecchi","AT-X, David Production",LIGHT_NOVEL,FALL,2011-10-9,2011-12-25
 4060,Grimm Masterpiece Theater,Grimm's Fairy Tale Classics,24.0,FINISHED,68.0,1361,23,"Adventure, Comedy, Fantasy",Nippon Animation,OTHER,FALL,1987-10-21,1988-3-30
 8410,Metal Fight Beyblade: Baku,Beyblade: Metal Masters,51.0,FINISHED,68.0,15665,258,"Adventure, Comedy, Sports","Tatsunoko Production, SynergySP, Nelvana",MANGA,SPRING,2010-4-4,2011-3-27
 5829,Blocker Gundan IV Machine Blaster,Blocker Corps,38.0,FINISHED,63.0,440,2,"Mecha, Sci-Fi",Nippon Animation,,SUMMER,1976-7-5,1977-3-28
@@ -524,7 +524,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 1863,Silk Road Shounen Yuuto,,26.0,FINISHED,,243,3,"Adventure, Fantasy","OLM, NHK-BS2",,FALL,2006-9-16,2007-3-24
 2076,Kindaichi Shounen no Jikenbo (TV),,148.0,FINISHED,76.0,7092,115,Mystery,Toei Animation,MANGA,SPRING,1997-4-7,2000-9-11
 604,Mahou no Stage Fancy Lala,Fancy Lala,26.0,FINISHED,69.0,3671,68,"Comedy, Drama, Mahou Shoujo, Music, Romance","Studio Pierrot, Kyoto Animation, Bandai Visual, NBCUniversal Entertainment Japan, TV Osaka, Bandai Entertainment, Yomiuri Advertising, TV Tokyo Music",ORIGINAL,SPRING,1998-4-5,1998-9-27
-10161,NO.6,No.6,11.0,FINISHED,72.0,88730,2155,"Action, Drama, Psychological, Sci-Fi","bones, Aniplex, Fuji TV, Sentai Filmworks",OTHER,SUMMER,2011-7-8,2011-9-16
+10161,NO.6,No.6,11.0,FINISHED,72.0,88748,2155,"Action, Drama, Psychological, Sci-Fi","bones, Aniplex, Fuji TV, Sentai Filmworks",OTHER,SUMMER,2011-7-8,2011-9-16
 1236,SF Saiyuuki Starzinger,Spaceketeers,73.0,FINISHED,60.0,725,12,"Adventure, Mecha, Sci-Fi",Toei Animation,ORIGINAL,SPRING,1978-4-2,1979-8-26
 2362,Run=Dim,,13.0,FINISHED,36.0,988,1,"Action, Mecha, Sci-Fi","TV Tokyo, Idea Factory",,SPRING,2001-4-1,2001-6-24
 2571,Mitsubachi Maya no Bouken,Maya the Bee,52.0,FINISHED,61.0,2694,34,"Adventure, Comedy","Nippon Animation, TV Asahi, Zuiyou Eizou, Tauros Film",OTHER,SPRING,1975-4-1,1976-4-20
@@ -593,7 +593,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 8011,Time Bokan Series: Gyakuten Ippatsu-man,,58.0,FINISHED,55.0,505,5,Sci-Fi,Tatsunoko Production,,WINTER,1982-2-13,1983-3-26
 489,Kamichu!,Kamichu!,12.0,FINISHED,70.0,15311,162,"Comedy, Slice of Life, Supernatural","Aniplex, NBCUniversal Entertainment Japan, Funimation, Brain's Base, Ashi Productions",ORIGINAL,SUMMER,2005-6-28,2005-9-27
 3701,Kaiba,Kaiba,12.0,FINISHED,79.0,40940,1642,"Adventure, Mystery, Psychological, Romance, Sci-Fi","MADHOUSE, Discotek",ORIGINAL,SPRING,2008-4-11,2008-7-25
-10162,Usagi Drop,Bunny Drop,11.0,FINISHED,81.0,87792,1878,Slice of Life,"Production I.G, Fuji TV, NIS America Inc., Sony Music Entertainment, Sakura Create, Fujipacific Music",MANGA,SUMMER,2011-7-8,2011-9-16
+10162,Usagi Drop,Bunny Drop,11.0,FINISHED,81.0,87811,1878,Slice of Life,"Production I.G, Fuji TV, NIS America Inc., Sony Music Entertainment, Sakura Create, Fujipacific Music",MANGA,SUMMER,2011-7-8,2011-9-16
 53,Ai Yori Aoshi,Ai Yori Aoshi,24.0,FINISHED,67.0,15032,114,"Comedy, Drama, Romance, Slice of Life","J.C. Staff, Funimation, Movic, Fuji TV, Pioneer LDC, Cosmic Ray",MANGA,SPRING,2002-4-11,2002-9-26
 9284,Bakuhatsu Gorou,,26.0,FINISHED,44.0,333,2,"Comedy, Sports",Tele-Cartoon Japan,,SPRING,1970-4-3,1970-9-25
 1674,Captain Tsubasa J,,47.0,FINISHED,69.0,4969,59,Sports,"NAS, Studio Jack, Studio Comet",MANGA,FALL,1994-10-21,1995-12-22
@@ -637,7 +637,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 5226,Souten Kouro,Beyond the Heavens,26.0,FINISHED,65.0,3632,24,"Action, Adventure","MADHOUSE, VAP",MANGA,SPRING,2009-4-8,2009-9-30
 840,Narue no Sekai,The World of Narue,12.0,FINISHED,63.0,3712,33,"Comedy, Romance, Sci-Fi","Lantis, Pony Canyon, Imagica, Central Park Media, Media Factory, Mainichi Broadcasting System, Studio Live",MANGA,SPRING,2003-4-5,2003-6-28
 1356,Hokuto no Ken 2,Fist of the North Star 2,43.0,FINISHED,71.0,6356,105,"Action, Drama","Toei Animation, Discotek",MANGA,SPRING,1987-3-12,1988-2-18
-10321,Uta no☆Prince-sama♪ Maji LOVE 1000%,Uta no Prince Sama,13.0,FINISHED,65.0,26683,304,"Comedy, Music, Romance","A-1 Pictures, Starchild Records, Movic, Sentai Filmworks, Dwango, Hakuhodo DY Music & Pictures",VISUAL_NOVEL,SUMMER,2011-7-3,2011-9-24
+10321,Uta no☆Prince-sama♪ Maji LOVE 1000%,Uta no Prince Sama,13.0,FINISHED,65.0,26689,304,"Comedy, Music, Romance","A-1 Pictures, Starchild Records, Movic, Sentai Filmworks, Dwango, Hakuhodo DY Music & Pictures",VISUAL_NOVEL,SUMMER,2011-7-3,2011-9-24
 1473,City Hunter '91,City Hunter '91,13.0,FINISHED,75.0,4981,55,"Action, Comedy, Mystery","Sunrise, Discotek",MANGA,SPRING,1991-4-28,1991-10-10
 3299,H2O: FOOTPRINTS IN THE SAND,H2O: Footprints in the Sand,12.0,FINISHED,63.0,13408,77,Romance,"ZEXCS, Kadokawa Pictures USA, NTT Docomo, Studio Jack",VISUAL_NOVEL,WINTER,2008-1-4,2008-3-21
 2799,Hello! Sandybell,,47.0,FINISHED,66.0,1418,25,"Adventure, Romance","Toei Animation, TV Asahi, ASATSU",ORIGINAL,SPRING,1981-3-6,1982-2-26
@@ -743,7 +743,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 2151,Nils no Fushigi na Tabi,The Wonderful Adventures of Nils Holgersson,52.0,FINISHED,65.0,1878,25,"Adventure, Fantasy","Studio Pierrot, Gakken",OTHER,WINTER,1980-1-8,1981-3-17
 3457,Vampire Knight,Vampire Knight,13.0,FINISHED,62.0,83431,1062,"Drama, Mystery, Romance, Supernatural","Aniplex, Studio DEEN, Viz Media, NAS",MANGA,SPRING,2008-4-8,2008-7-1
 147,Kimi ga Nozomu Eien,Rumbling Hearts,14.0,FINISHED,66.0,21324,202,"Drama, Romance, Slice of Life","Studio Fantasia, Funimation, Lantis, Media Factory, Age",VISUAL_NOVEL,FALL,2003-10-5,2004-1-4
-10379,Natsume Yuujinchou San,Natsume's Book of Friends Season 3,13.0,FINISHED,84.0,41586,794,"Drama, Fantasy, Slice of Life, Supernatural","Aniplex, Brain's Base, NIS America Inc., Sakura Create",MANGA,SUMMER,2011-7-5,2011-9-27
+10379,Natsume Yuujinchou San,Natsume's Book of Friends Season 3,13.0,FINISHED,84.0,41597,794,"Drama, Fantasy, Slice of Life, Supernatural","Aniplex, Brain's Base, NIS America Inc., Sakura Create",MANGA,SUMMER,2011-7-5,2011-9-27
 1712,Shin Seiki Den Mars,,13.0,FINISHED,52.0,651,11,"Mecha, Sci-Fi","Plum, MediaNet, AT-X, NEW SELECT, Tsuburaya Eizou, Studio Guts",MANGA,FALL,2002-10-31,2003-2-6
 3672,Tottemo! Luckyman,Tottemo! Luckyman,50.0,FINISHED,69.0,1274,42,"Comedy, Sci-Fi","TV Tokyo, Yomiko Advertising, TV Tokyo Music, Studio Pierrot",MANGA,SPRING,1994-4-6,1995-3-23
 153,Juuni Kokuki,The Twelve Kingdoms,45.0,FINISHED,77.0,31360,706,"Action, Adventure, Fantasy, Supernatural","Studio Pierrot, Sogo Vision, Discotek",LIGHT_NOVEL,SPRING,2002-4-9,2003-8-30
@@ -767,7 +767,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 1579,Kiniro no Corda: primo passo,La Corda D'Oro: Primo Passo,25.0,FINISHED,68.0,10093,84,"Comedy, Drama, Music, Romance","Aniplex, Yumeta Company, Hakusensha, Koei, Sentai Filmworks",VISUAL_NOVEL,FALL,2006-10-2,2007-3-26
 369,Boogiepop wa Warawanai: Boogiepop Phantom,Boogiepop Phantom,12.0,FINISHED,70.0,34136,623,"Drama, Horror, Mystery, Psychological, Supernatural","MADHOUSE, VAP, d-rights, The Right Stuf International, Triangle Staff",LIGHT_NOVEL,WINTER,2000-1-5,2000-3-22
 4903,Kyou no Go no Ni (2008),,13.0,FINISHED,68.0,6670,36,"Comedy, Ecchi, Romance","Xebec, Starchild Records, TV Tokyo Music",MANGA,FALL,2008-10-6,2008-12-29
-10620,Mirai Nikki,The Future Diary,26.0,FINISHED,68.0,356875,6834,"Action, Horror, Mystery, Psychological, Supernatural, Thriller","Funimation, Lantis, Kadokawa Shoten, Asread, Rakuonsha, Kadokawa Pictures Japan, KLOCKWORX, chara-ani.com, 12 Diary Holders, Dwango, Sakura Create",MANGA,FALL,2011-10-9,2012-4-15
+10620,Mirai Nikki,The Future Diary,26.0,FINISHED,68.0,356940,6834,"Action, Horror, Mystery, Psychological, Supernatural, Thriller","Funimation, Lantis, Kadokawa Shoten, Asread, Rakuonsha, Kadokawa Pictures Japan, KLOCKWORX, chara-ani.com, 12 Diary Holders, Dwango, Sakura Create",MANGA,FALL,2011-10-9,2012-4-15
 144,Kanon,,13.0,FINISHED,64.0,12444,70,"Drama, Romance, Slice of Life, Supernatural","Toei Animation, Movic, Fuji TV, Fujipacific Music, Key",VISUAL_NOVEL,WINTER,2002-1-31,2002-3-28
 62,D.C.: Da Capo,D.C.~Da Capo~,26.0,FINISHED,62.0,11619,68,"Drama, Romance","feel., Lantis, ZEXCS",VISUAL_NOVEL,SUMMER,2003-7-5,2003-12-27
 5023,Ninpuu Kamui Gaiden,,26.0,FINISHED,58.0,941,11,"Action, Adventure","Tele-Cartoon Japan, Eiken, Fuji TV",MANGA,SPRING,1969-4-6,1969-9-28
@@ -787,7 +787,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 9955,Big Mouth Do Do,,52.0,FINISHED,,102,0,,,,,2007-None-None,2007-None-None
 2804,Hana no Mahou Tsukai Mary Bell,,50.0,FINISHED,64.0,1094,17,"Adventure, Fantasy, Mahou Shoujo","Ashi Productions, Big West, TV Setouchi",ORIGINAL,WINTER,1992-2-3,1993-1-18
 1844,CLAMP Gakuen Tanteidan,CLAMP School Detectives,26.0,FINISHED,63.0,3119,20,"Action, Comedy, Mystery","Studio Pierrot, Bandai Visual, Maiden Japan",MANGA,SPRING,1997-5-3,1997-10-25
-10163,C: THE MONEY OF SOUL AND POSSIBILITY CONTROL,[C] - CONTROL - The Money and Soul of Possibility,11.0,FINISHED,67.0,52533,453,"Action, Mystery, Supernatural, Thriller","Funimation, Tatsunoko Production, Fuji TV, Jumondou, Sony Music Entertainment, Fujipacific Music",ORIGINAL,SPRING,2011-4-15,2011-6-24
+10163,C: THE MONEY OF SOUL AND POSSIBILITY CONTROL,[C] - CONTROL - The Money and Soul of Possibility,11.0,FINISHED,67.0,52544,453,"Action, Mystery, Supernatural, Thriller","Funimation, Tatsunoko Production, Fuji TV, Jumondou, Sony Music Entertainment, Fujipacific Music",ORIGINAL,SPRING,2011-4-15,2011-6-24
 3809,Shirayuki Hime no Densetsu,The Legend of Snow White,52.0,FINISHED,62.0,835,11,"Adventure, Fantasy, Romance",Tatsunoko Production,,SPRING,1994-4-6,1995-3-29
 5854,Shin Chou Kyou Ryo: Condor Hero III,Legend of the Condor Hero III,26.0,FINISHED,60.0,553,8,"Action, Adventure, Drama, Romance","Jade Animation, Nippon Animation",OTHER,SPRING,2008-4-13,2008-5-3
 5140,Karaoke Senshi Mike-tarou,Karaoke Senshi Mike-tarou,20.0,FINISHED,58.0,295,7,Music,Studio Kikan,MANGA,SPRING,1994-4-4,1995-3-11
@@ -889,7 +889,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 67,Basilisk: Kouga Ninpouchou,Basilisk,24.0,FINISHED,71.0,26765,357,"Action, Adventure, Drama, Romance","GONZO, GDH, Funimation, Kodansha",MANGA,SPRING,2005-4-13,2005-9-21
 1673,Bomberman B-Daman Bakugaiden V,,50.0,FINISHED,59.0,573,5,Sci-Fi,"MADHOUSE, Nagoya Broadcasting Network",VIDEO_GAME,WINTER,1999-2-7,2000-1-30
 136,HUNTER×HUNTER,Hunter x Hunter,62.0,FINISHED,82.0,105633,3077,"Action, Adventure, Fantasy","Nippon Animation, Viz Media, Fuji TV, Shueisha",MANGA,FALL,1999-10-16,2001-3-31
-10109,Softenni,,12.0,FINISHED,61.0,5709,18,"Comedy, Ecchi, Sports","Xebec, NBCUniversal Entertainment Japan, Lantis, AT-X, KLOCKWORX, Studio Mausu",MANGA,SPRING,2011-4-8,2011-6-24
+10109,Softenni,,12.0,FINISHED,61.0,5710,18,"Comedy, Ecchi, Sports","Xebec, NBCUniversal Entertainment Japan, Lantis, AT-X, KLOCKWORX, Studio Mausu",MANGA,SPRING,2011-4-8,2011-6-24
 3436,Miimu Iro Iro Yume no Tabi,The Many Dream Journeys of Meme,127.0,FINISHED,54.0,340,3,"Adventure, Sci-Fi",,,SPRING,1983-4-3,1985-9-29
 2214,Black Jack 21,,17.0,FINISHED,73.0,2685,26,"Action, Drama",Tezuka Productions,MANGA,SPRING,2006-4-10,2006-9-4
 4087,Michiko to Hatchin,Michiko & Hatchin,22.0,FINISHED,76.0,51391,1111,"Action, Adventure","Manglobe, Media Factory, Hakuhodo DY Music & Pictures, Shouchiku, Fuji TV, Yomiko Advertising",ORIGINAL,FALL,2008-10-16,2009-3-19
@@ -897,7 +897,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 2980,Kuusou Kagaku Sekai Gulliver Boy,Fantascience World Gulliver Boy,50.0,FINISHED,64.0,534,7,"Action, Adventure, Fantasy, Mecha",Toei Animation,,WINTER,1995-1-8,1995-12-24
 3228,Zoku Sayonara Zetsubou Sensei,"Zoku Sayonara, Zetsubou-Sensei",13.0,FINISHED,77.0,27062,371,Comedy,"Shaft, Starchild Records",MANGA,WINTER,2008-1-6,2008-3-30
 8206,Hime Chen! Otogi Chikku Idol Lilpri,Spellbound! Magical Princess Lilpri,51.0,FINISHED,64.0,2209,23,Mahou Shoujo,"TV Tokyo, Shogakukan-Shueisha Productions, TMS Entertainment, Half H.P Studio",VIDEO_GAME,SPRING,2010-4-4,2011-3-27
-10271,Gyakkyou Burai Kaiji: Hakairoku-hen,Kaiji - Against All Rules,26.0,FINISHED,82.0,44419,1511,"Psychological, Thriller","MADHOUSE, VAP, Sentai Filmworks",MANGA,SPRING,2011-4-6,2011-9-28
+10271,Gyakkyou Burai Kaiji: Hakairoku-hen,Kaiji - Against All Rules,26.0,FINISHED,82.0,44429,1511,"Psychological, Thriller","MADHOUSE, VAP, Sentai Filmworks",MANGA,SPRING,2011-4-6,2011-9-28
 1005,Star Ocean EX,Star Ocean EX,26.0,FINISHED,61.0,2095,16,"Adventure, Fantasy, Sci-Fi","Studio DEEN, TV Tokyo, Discotek, Dentsu",VIDEO_GAME,SPRING,2001-4-3,2001-9-25
 584,Noein: Mou Hitori no Kimi e,Noein: To Your Other Self,24.0,FINISHED,71.0,20221,214,"Adventure, Drama, Psychological, Sci-Fi, Slice of Life","Satelight, Lantis, Ashi Productions, Rikuentai, Toshiba Entertainment, Funimation, Manga Entertainment",ORIGINAL,FALL,2005-10-12,2006-3-29
 3361,UFO Senshi Dai Apolon,,26.0,FINISHED,53.0,512,8,"Action, Mecha",Eiken,ORIGINAL,SPRING,1976-4-6,1976-9-28
@@ -921,7 +921,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 1559,Shijou Saikyou no Deshi Kenichi,Kenichi: The Mightiest Disciple,50.0,FINISHED,77.0,42122,888,"Action, Comedy","TV Tokyo, Tokyo Movie Shinsha, TMS Entertainment, Discotek",MANGA,FALL,2006-10-7,2007-9-30
 341,Spiral: Suiri no Kizuna,Spiral: Bond of Reasoning,25.0,FINISHED,66.0,6781,71,"Comedy, Drama, Mystery","J.C. Staff, TV Tokyo, Aniplex, Sotsu, Funimation, SME Visual Works",MANGA,FALL,2002-10-1,2003-3-25
 1706,Gun Frontier,,13.0,FINISHED,62.0,2692,25,"Action, Adventure, Sci-Fi","Vega Entertainment, MediaNet, AT-X, Discotek",MANGA,SPRING,2002-3-28,2002-6-20
-10568,Kamisama no Memochou,Heaven's Memo Pad,12.0,FINISHED,71.0,45594,324,Mystery,"J.C. Staff, Lantis, AT-X, Sentai Filmworks, Warner Bros. Japan, KLOCKWORX, ASCII Media Works",LIGHT_NOVEL,SUMMER,2011-7-2,2011-9-24
+10568,Kamisama no Memochou,Heaven's Memo Pad,12.0,FINISHED,71.0,45601,324,Mystery,"J.C. Staff, Lantis, AT-X, Sentai Filmworks, Warner Bros. Japan, KLOCKWORX, ASCII Media Works",LIGHT_NOVEL,SUMMER,2011-7-2,2011-9-24
 6347,Baka to Test to Shoukanjuu,Baka and Test - Summon the Beasts,13.0,FINISHED,71.0,100677,1428,"Comedy, Romance","Funimation, SILVER LINK., Cospa, Lantis, Media Factory",LIGHT_NOVEL,WINTER,2010-1-7,2010-4-1
 3229,Kimi ga Aruji de Shitsuji ga Ore de,,13.0,FINISHED,66.0,16900,97,"Comedy, Ecchi, Romance","Lantis, A.C.G.T., Studio Jack, Pastel",VISUAL_NOVEL,WINTER,2008-1-6,2008-3-30
 5039,Kurozuka,Kurozuka,12.0,FINISHED,64.0,15178,104,"Action, Drama, Horror, Romance, Sci-Fi","MADHOUSE, Sony Pictures Entertainment",MANGA,FALL,2008-10-7,2008-12-23
@@ -965,9 +965,9 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 9520,Zero Tester,,38.0,FINISHED,59.0,405,3,"Action, Adventure, Mecha, Sci-Fi",Sunrise,ORIGINAL,FALL,1973-10-1,1974-6-17
 446,Weiß Kreuz Glühen,Knight Hunters Eternity,13.0,FINISHED,59.0,1561,8,"Action, Drama","ufotable, Media Blasters, NYAV Post, Animate Film, Movic, Kids Station, Studio Flag",LIGHT_NOVEL,FALL,2002-11-28,2003-3-20
 65,Rozen Maiden: Träumend,Rozen Maiden: Dreaming,12.0,FINISHED,72.0,14472,140,"Action, Comedy, Drama","Nomad, Mellow Head, TBS, Sentai Filmworks",MANGA,FALL,2005-10-21,2006-1-27
-10397,Mashiroiro Symphony: The color of lovers,Mashiroiro Symphony,12.0,FINISHED,66.0,26569,209,"Drama, Romance","Manglobe, Frontier Works, Lantis, Media Factory, Sentai Filmworks",VISUAL_NOVEL,FALL,2011-10-5,2011-12-21
+10397,Mashiroiro Symphony: The color of lovers,Mashiroiro Symphony,12.0,FINISHED,66.0,26580,209,"Drama, Romance","Manglobe, Frontier Works, Lantis, Media Factory, Sentai Filmworks",VISUAL_NOVEL,FALL,2011-10-5,2011-12-21
 1565,Pocket Monsters Diamond & Pearl,Pokémon the Series: Diamond and Pearl,191.0,FINISHED,71.0,34626,463,"Action, Adventure, Comedy, Fantasy","TV Tokyo, OLM, Shogakukan-Shueisha Productions, Viz Media, SoftX, The Pokemon Company International, Nintendo Co. Ltd., Studio Jack",VIDEO_GAME,FALL,2006-9-28,2010-9-9
-10232,Tamayura: hitotose,Tamayura: Hitotose,12.0,FINISHED,72.0,12220,126,"Comedy, Slice of Life","TYO Animations, BIGLOBE",ORIGINAL,FALL,2011-10-3,2011-12-19
+10232,Tamayura: hitotose,Tamayura: Hitotose,12.0,FINISHED,72.0,12223,126,"Comedy, Slice of Life","TYO Animations, BIGLOBE",ORIGINAL,FALL,2011-10-3,2011-12-19
 4810,Shinzou Ningen Casshern,Neo Human Casshan,35.0,FINISHED,62.0,2408,31,"Action, Mecha, Sci-Fi","Tatsunoko Production, Sentai Filmworks",ORIGINAL,FALL,1973-10-2,1974-6-25
 2572,Fushigi no Kuni no Alice,Alice in Wonderland,52.0,FINISHED,54.0,902,7,"Adventure, Fantasy",Nippon Animation,OTHER,FALL,1983-10-10,1984-3-26
 5760,Dororo to Hyakkimaru,Dororo,26.0,FINISHED,67.0,6961,93,"Action, Adventure, Supernatural","Mushi Production, Tezuka Productions, Fuji TV, Studio Jack",MANGA,SPRING,1969-4-6,1969-9-28
@@ -1026,7 +1026,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 3638,Kaiketsu Zorori,,52.0,FINISHED,66.0,1194,20,"Adventure, Comedy, Fantasy","Ajiado, Amber Film Works, Tokyu Agency, Nagoya Broadcasting Network",,WINTER,2004-2-1,2005-2-6
 3433,Gou-Q-Chouji Ikkiman,,32.0,FINISHED,61.0,394,5,"Comedy, Sci-Fi, Sports","Toei Animation, Yomiuri Advertising",ORIGINAL,SPRING,1986-4-13,1986-11-23
 5032,COBRA THE ANIMATION,,13.0,FINISHED,66.0,2049,20,"Action, Sci-Fi",Magic Bus,MANGA,WINTER,2010-1-2,2010-3-27
-10507,Inazuma Eleven GO,,47.0,FINISHED,68.0,20098,416,Sports,"TV Tokyo, OLM, Dentsu, Half H.P Studio, TV Tokyo Music, Studio Jack",VIDEO_GAME,SPRING,2011-5-4,2012-4-11
+10507,Inazuma Eleven GO,,47.0,FINISHED,68.0,20106,416,Sports,"TV Tokyo, OLM, Dentsu, Half H.P Studio, TV Tokyo Music, Studio Jack",VIDEO_GAME,SPRING,2011-5-4,2012-4-11
 1088,Choujikuu Yousai Macross,Macross,36.0,FINISHED,75.0,25279,588,"Action, Drama, Mecha, Music, Romance, Sci-Fi","Artland, Tatsunoko Production, Studio Nue",ORIGINAL,FALL,1982-10-3,1983-6-26
 48,.hack//SIGN,.hack//Sign,26.0,FINISHED,65.0,28849,469,"Adventure, Fantasy, Mystery, Sci-Fi","Bee Train, Bandai Visual, Yomiko Advertising, Bandai, CyberConnect2, Bandai Entertainment",ORIGINAL,SPRING,2002-4-4,2002-9-26
 616,Nurse Angel Ririka SOS,,35.0,FINISHED,67.0,1865,43,"Drama, Fantasy, Mahou Shoujo","NAS, TV Tokyo Music, Studio Gallop",MANGA,SUMMER,1995-7-7,1996-3-29
@@ -1096,7 +1096,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 2215,Kishin Taisen Gigantic Formula,,26.0,FINISHED,60.0,1511,5,"Mecha, Sci-Fi","Bandai Visual, Brain's Base, TV Tokyo",ORIGINAL,SPRING,2007-4-5,2007-9-27
 1848,Haou Taikei Ryuu Knight,Lord of Lords Ryu Knight,52.0,FINISHED,64.0,1007,24,"Action, Adventure, Fantasy, Mecha",Sunrise,MANGA,SPRING,1994-4-5,1995-3-28
 3503,Kanokon,Kanokon: The Girl Who Cried Fox,12.0,FINISHED,57.0,39931,283,"Comedy, Ecchi, Romance, Supernatural","Xebec, Media Factory, Movic, AT-X, Media Blasters",LIGHT_NOVEL,SPRING,2008-4-5,2008-6-21
-10721,Mawaru Penguindrum,Penguindrum,24.0,FINISHED,79.0,71541,3247,"Drama, Mystery, Psychological, Supernatural","Brain's Base, Mainichi Broadcasting System, Sentai Filmworks",ORIGINAL,SUMMER,2011-7-8,2011-12-23
+10721,Mawaru Penguindrum,Penguindrum,24.0,FINISHED,79.0,71557,3247,"Drama, Mystery, Psychological, Supernatural","Brain's Base, Mainichi Broadcasting System, Sentai Filmworks",ORIGINAL,SUMMER,2011-7-8,2011-12-23
 15,Eyeshield 21,Eyeshield 21,145.0,FINISHED,76.0,28520,662,"Action, Comedy, Sports","Studio Gallop, NAS, Nihon Ad Systems, Sentai Filmworks, TV Tokyo Music, Animation Planet",MANGA,SPRING,2005-4-6,2008-3-19
 2686,Tetsujin 28-gou,Gigantor,83.0,FINISHED,58.0,1282,17,"Adventure, Mecha, Sci-Fi","Eiken, Dentsu, TCJ, Ezaki Glico",MANGA,FALL,1963-10-20,1965-5-27
 7395,Card Wang: Mix Master,,39.0,FINISHED,54.0,498,8,"Adventure, Fantasy","Nippon Animation, Sunwoo Entertainment, KBS Kyoto",VIDEO_GAME,,2005-10-4,2006-7-18
@@ -1165,7 +1165,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 10359,Jewelpet Sunshine,,52.0,FINISHED,63.0,1746,16,"Comedy, Fantasy, Mahou Shoujo","TV Tokyo, Studio Comet, Studio Jack",ORIGINAL,SPRING,2011-4-9,2012-3-31
 2400,Ghost Sweeper Mikami,Ghost Sweeper Mikami,45.0,FINISHED,68.0,3588,56,"Comedy, Supernatural","Toei Animation, Asatsu DK",MANGA,SPRING,1993-4-11,1994-3-6
 2575,Don Chuck Monogatari,Don Chuck Stories,26.0,FINISHED,57.0,356,4,"Adventure, Slice of Life",Knack Productions,ORIGINAL,SPRING,1975-4-5,1975-9-27
-10330,Bakugan Battle Brawlers: Mechtanium Surge,Bakugan: Mechtanium Surge,46.0,FINISHED,58.0,8526,66,"Action, Adventure, Fantasy, Mecha, Sci-Fi","TMS Entertainment, Nelvana, Sega Toys, Studio Hibari",ORIGINAL,WINTER,2011-2-13,2012-1-26
+10330,Bakugan Battle Brawlers: Mechtanium Surge,Bakugan: Mechtanium Surge,46.0,FINISHED,58.0,8525,66,"Action, Adventure, Fantasy, Mecha, Sci-Fi","TMS Entertainment, Nelvana, Sega Toys, Studio Hibari",ORIGINAL,WINTER,2011-2-13,2012-1-26
 280,Animal Yokochou,Animal Lane,51.0,FINISHED,63.0,927,11,"Adventure, Comedy, Fantasy","Studio Gallop, Dongwoo Animation, TV Tokyo, Dentsu",MANGA,FALL,2005-10-4,2006-9-26
 3151,Genei Toushi Bastof Lemon,BASToF Syndrome,26.0,FINISHED,46.0,412,0,"Adventure, Mecha, Sci-Fi",ADV Films,ORIGINAL,SPRING,2001-5-3,2001-11-15
 2604,Sky Girls,,26.0,FINISHED,66.0,4872,27,"Action, Mecha, Sci-Fi","J.C. Staff, Konami",ORIGINAL,SUMMER,2007-7-6,2007-12-28
@@ -1178,9 +1178,9 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 7245,Sekai Meisaku Douwa: Wow! Maerchen Oukoku,The World's Most Famous Tales,26.0,FINISHED,61.0,355,5,Fantasy,Days,OTHER,SPRING,1995-4-7,1995-9-29
 7082,Shugo Chara! Party!,,25.0,FINISHED,64.0,11200,99,"Comedy, Mahou Shoujo, Romance","TV Tokyo, Satelight",MANGA,FALL,2009-10-3,2010-3-27
 9693,Moshidora,,10.0,FINISHED,64.0,4887,25,"Drama, Sports","Production I.G, NHK, NHK Enterprises",OTHER,SPRING,2011-4-25,2011-5-6
-10588,Persona 4 the Animation,Persona 4 the Animation,25.0,FINISHED,72.0,48669,863,"Action, Adventure, Mystery, Sci-Fi, Supernatural","Aniplex, AIC A.S.T.A., Sentai Filmworks, ASCII Media Works, Index",VIDEO_GAME,FALL,2011-10-7,2012-3-30
+10588,Persona 4 the Animation,Persona 4 the Animation,25.0,FINISHED,72.0,48679,863,"Action, Adventure, Mystery, Sci-Fi, Supernatural","Aniplex, AIC A.S.T.A., Sentai Filmworks, ASCII Media Works, Index",VIDEO_GAME,FALL,2011-10-7,2012-3-30
 1082,Hikari to Mizu no Daphne,Daphne in the Brilliant Blue,24.0,FINISHED,63.0,2965,23,"Comedy, Drama, Mystery, Psychological, Sci-Fi","J.C. Staff, Genco, Lantis, Sentai Filmworks, Toshiba Entertainment",ORIGINAL,WINTER,2004-1-16,2004-7-3
-10521,WORKING'!!,Wagnaria!!2,13.0,FINISHED,76.0,47785,413,"Comedy, Slice of Life","Aniplex, A-1 Pictures, Yomiuri TV, Rakuonsha",MANGA,FALL,2011-10-1,2011-12-24
+10521,WORKING'!!,Wagnaria!!2,13.0,FINISHED,76.0,47797,413,"Comedy, Slice of Life","Aniplex, A-1 Pictures, Yomiuri TV, Rakuonsha",MANGA,FALL,2011-10-1,2011-12-24
 2892,Hakushon Daimaou,Bob in the Bottle,52.0,FINISHED,58.0,734,7,"Comedy, Fantasy",Tatsunoko Production,ORIGINAL,FALL,1969-10-5,1970-9-27
 951,Chibi Maruko-chan,,142.0,FINISHED,71.0,2995,68,"Comedy, Slice of Life","Nippon Animation, Fuji TV",MANGA,WINTER,1990-1-7,1992-9-27
 237,Koukyoushihen Eureka Seven,Eureka Seven,50.0,FINISHED,77.0,72888,1876,"Action, Adventure, Drama, Mecha, Romance, Sci-Fi","bones, Mainichi Broadcasting System, Ashi Productions, Bandai Entertainment",ORIGINAL,SPRING,2005-4-17,2006-4-2
@@ -1215,7 +1215,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 4503,Choujikuu Kidan Southern Cross,Super Dimensional Cavalry Southern Cross,23.0,FINISHED,60.0,1989,16,"Action, Drama, Mecha, Sci-Fi","ADV Films, Tatsunoko Production, Big West",ORIGINAL,SPRING,1984-4-15,1984-9-30
 934,Higurashi no Naku Koro ni,When They Cry,26.0,FINISHED,75.0,146859,4345,"Horror, Mystery, Psychological, Supernatural, Thriller","Studio DEEN, Frontier Works, Sotsu, DAX Production, Sentai Filmworks",VISUAL_NOVEL,SPRING,2006-4-5,2006-9-27
 6920,Blade,Blade,12.0,FINISHED,56.0,5114,48,"Action, Drama, Horror, Supernatural","MADHOUSE, Marvel Entertainment, Sony Pictures Entertainment",OTHER,SUMMER,2011-7-1,2011-9-16
-10357,Jinrui wa Suitai Shimashita,Humanity Has Declined,12.0,FINISHED,75.0,49944,912,"Comedy, Fantasy, Sci-Fi","Sotsu, AIC A.S.T.A., Lantis, Pony Canyon, Movic, Sentai Filmworks, Marvelous, AIC",LIGHT_NOVEL,SUMMER,2012-7-2,2012-9-16
+10357,Jinrui wa Suitai Shimashita,Humanity Has Declined,12.0,FINISHED,75.0,49960,912,"Comedy, Fantasy, Sci-Fi","Sotsu, AIC A.S.T.A., Lantis, Pony Canyon, Movic, Sentai Filmworks, Marvelous, AIC",LIGHT_NOVEL,SUMMER,2012-7-2,2012-9-16
 1603,Super Robot Taisen OG: Divine Wars,Super Robot Wars The Original Generation: The Divine Wars,25.0,FINISHED,62.0,1934,14,"Action, Mecha, Sci-Fi","OLM, GDH, Genco, Media Blasters",VIDEO_GAME,FALL,2006-10-5,2007-3-29
 8956,Denkou Chou Tokkyuu Hikarian,,52.0,FINISHED,55.0,323,3,"Action, Adventure","TV Tokyo, Tokyo Kids",,SPRING,2002-4-7,2003-3-30
 1530,Kanon (2006),Kanon (2006),24.0,FINISHED,76.0,42320,697,"Drama, Romance, Slice of Life, Supernatural","Kyoto Animation, TBS, Pony Canyon, Movic",VISUAL_NOVEL,FALL,2006-10-5,2007-3-15
@@ -1252,7 +1252,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 90,Shin Kidou Senki Gundam Wing,Mobile Suit Gundam Wing,49.0,FINISHED,71.0,25223,589,"Action, Adventure, Drama, Mecha, Sci-Fi","Sunrise, TV Asahi, Bandai Entertainment",ORIGINAL,SPRING,1995-4-7,1996-3-29
 230,Air Master,Air Master,27.0,FINISHED,62.0,6436,76,"Action, Adventure, Comedy","Toei Animation, VAP",MANGA,SPRING,2003-4-2,2003-10-1
 764,Zoids Shin Seiki/Zero,Zoids New Century/Zero,26.0,FINISHED,68.0,4418,91,"Adventure, Comedy, Mecha, Sci-Fi, Sports","Xebec, Viz Media",OTHER,WINTER,2001-1-6,2001-6-30
-10155,Dog Days,Dog Days,13.0,FINISHED,64.0,32786,256,"Action, Adventure, Fantasy","Aniplex, Seven Arcs",ORIGINAL,SPRING,2011-4-2,2011-6-25
+10155,Dog Days,Dog Days,13.0,FINISHED,64.0,32797,256,"Action, Adventure, Fantasy","Aniplex, Seven Arcs",ORIGINAL,SPRING,2011-4-2,2011-6-25
 301,Cinderella Boy,,13.0,FINISHED,59.0,1881,13,"Action, Adventure, Comedy, Mystery",Magic Bus,MANGA,SUMMER,2003-6-24,2003-9-16
 9781,Hyouga Senshi Gaislugger,,20.0,FINISHED,60.0,452,5,"Action, Sci-Fi","Toei Animation, TV Asahi, Tokyo Movie Shinsha",ORIGINAL,SPRING,1977-4-12,1977-8-30
 3092,Junjou Romantica,Junjo Romantica,12.0,FINISHED,66.0,33186,555,"Comedy, Drama, Romance","Studio DEEN, The Right Stuf International, Memory-Tech",MANGA,SPRING,2008-4-11,2008-6-27
@@ -1279,7 +1279,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 229,Ninin ga Shinobuden,Ninja Nonsense,12.0,FINISHED,64.0,6587,53,Comedy,"ufotable, The Right Stuf International, NYAV Post, Toshiba Entertainment, Happinet Pictures",MANGA,SUMMER,2004-7-10,2004-9-25
 941,Renkin San-kyuu Magical? Pokaan,,12.0,FINISHED,66.0,7697,80,"Comedy, Ecchi","Remic, Genco, Lantis, Media Factory",ORIGINAL,SPRING,2006-4-4,2006-6-20
 1532,Suki na Mono wa Suki Dakara Shou ga Nai!!,Sukisho,12.0,FINISHED,59.0,5602,37,"Comedy, Drama, Romance, Slice of Life","ZEXCS, Lantis, Movic, Bandai Visual",VISUAL_NOVEL,WINTER,2005-1-9,2005-3-27
-10495,Yuru Yuri,YuruYuri,12.0,FINISHED,73.0,76758,1539,"Comedy, Slice of Life","TV Tokyo, Daume, Doga Kobo, Pony Canyon, DAX Production, NIS America Inc., Studio Gram, PRA, Jumondou",MANGA,SUMMER,2011-7-5,2011-9-20
+10495,Yuru Yuri,YuruYuri,12.0,FINISHED,73.0,76768,1539,"Comedy, Slice of Life","TV Tokyo, Daume, Doga Kobo, Pony Canyon, DAX Production, NIS America Inc., Studio Gram, PRA, Jumondou",MANGA,SUMMER,2011-7-5,2011-9-20
 9540,Bucket de Gohan,,20.0,FINISHED,,201,1,"Comedy, Slice of Life","Yomiuri TV, Magic Bus",,WINTER,1996-1-8,1996-6-24
 1180,Hyper Police,,25.0,FINISHED,64.0,2579,26,"Action, Comedy, Fantasy, Sci-Fi","Kadokawa Shoten, Marubeni, Nippon Columbia, Studio Pierrot",MANGA,SPRING,1997-4-3,1997-9-25
 8194,Akuma-kun,,42.0,FINISHED,62.0,811,13,"Adventure, Horror, Supernatural",Toei Animation,MANGA,SPRING,1989-4-15,1990-3-24
@@ -1521,7 +1521,7 @@ id,title_romaji,title_english,episodes,status,average_score,popularity,favourite
 1045,Elf wo Karu Mono-tachi,Those Who Hunt Elves,12.0,FINISHED,65.0,5475,49,"Adventure, Comedy, Ecchi, Fantasy","Group TAC, Sentai Filmworks, Amuse",MANGA,FALL,1996-10-4,1996-12-20
 4898,Kuroshitsuji,Black Butler,24.0,FINISHED,72.0,211807,4574,"Action, Comedy, Fantasy, Mystery, Supernatural","Aniplex, A-1 Pictures, Square Enix, Yomiko Advertising, Mainichi Broadcasting System, Movic, Trinity Sound, Aniplex of America",MANGA,FALL,2008-10-3,2009-3-27
 5081,Bakemonogatari,Bakemonogatari,15.0,FINISHED,82.0,280681,14544,"Comedy, Drama, Mystery, Psychological, Romance, Supernatural","Aniplex, Shaft, Kodansha, Aniplex of America, Hanabee Entertainment",LIGHT_NOVEL,SUMMER,2009-7-3,2010-6-25
-10370,Metal Fight Beyblade 4D,Beyblade: Metal Fury,52.0,FINISHED,68.0,13347,221,"Adventure, Sports","SynergySP, Nelvana, d-rights, TV Tokyo",MANGA,SPRING,2011-4-3,2012-4-1
+10370,Metal Fight Beyblade 4D,Beyblade: Metal Fury,52.0,FINISHED,68.0,13349,221,"Adventure, Sports","SynergySP, Nelvana, d-rights, TV Tokyo",MANGA,SPRING,2011-4-3,2012-4-1
 4439,Kurenai Sanshirou,Judo Boy,26.0,FINISHED,55.0,915,10,"Action, Sports","Tatsunoko Production, Fuji TV",MANGA,SPRING,1969-4-2,1969-9-24
 141,Jinki:Extend,Jinki:Extend,12.0,FINISHED,55.0,2412,9,"Mecha, Sci-Fi","feel., Funimation, ADV Films, GANSIS, TV Asahi",MANGA,WINTER,2005-1-5,2005-3-23
 4186,Koukaku no Regios,Chrome Shelled Regios,24.0,FINISHED,68.0,30153,307,"Action, Adventure, Fantasy, Sci-Fi","Funimation, ZEXCS, AMG MUSIC",LIGHT_NOVEL,WINTER,2009-1-11,2009-6-21
