@@ -14,7 +14,7 @@ endif
 
 # Install dependencies
 install:
-	python3 -m venv $(ENV)
+	python -m venv $(ENV)
 	$(PIP) install -r requirements.txt
 
 # Run the Jupyter notebook as a script
@@ -26,9 +26,15 @@ run:
 
 # Clean up generated files
 clean:
+ifeq ($(OS),Windows_NT)
 	@echo "Cleaning up generated files and virtual environment..."
-	rm -f $(SCRIPT)
-	rm -rf $(ENV)
+	del /q code.py || echo "No code.py file found"
+	rmdir /s /q env || echo "No env directory found"
+else
+	@echo "Cleaning up generated files and virtual environment..."
+	rm -f code.py
+	rm -rf env
+endif
 
 # Reinstall all dependencies
 reinstall: clean install
