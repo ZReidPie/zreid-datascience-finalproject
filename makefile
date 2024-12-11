@@ -34,6 +34,7 @@ clean:
 reinstall: clean install
 
 # Run tests with pytest
+.PHONY: test
 test:
 	@echo "Running tests with pytest..."
 	$(PYTHON) -m pytest --verbose --disable-warnings
