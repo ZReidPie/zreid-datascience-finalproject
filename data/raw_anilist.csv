@@ -1,51 +1,51 @@
 id,title_romaji,title_english,episodes,status,average_score,popularity,favourites,genres,studios,source,season,start_date,end_date
-1,Cowboy Bebop,Cowboy Bebop,26.0,FINISHED,86,372252,24305,"Action, Adventure, Drama, Sci-Fi","Sunrise, Bandai Visual, Bandai Entertainment",ORIGINAL,SPRING,1998-4-3,1999-4-24
+1,Cowboy Bebop,Cowboy Bebop,26.0,FINISHED,86,372252,24316,"Action, Adventure, Drama, Sci-Fi","Sunrise, Bandai Visual, Bandai Entertainment",ORIGINAL,SPRING,1998-4-3,1999-4-24
 6,TRIGUN,Trigun,26.0,FINISHED,80,133477,5274,"Action, Adventure, Comedy, Drama, Sci-Fi","MADHOUSE, Nippon Victor, Arts Pro, Funimation",MANGA,SPRING,1998-4-1,1998-9-30
-7,Witch Hunter ROBIN,Witch Hunter ROBIN,26.0,FINISHED,68,18157,202,"Action, Drama, Mystery, Supernatural","Sunrise, Bandai Visual, Bandai Entertainment",ORIGINAL,SUMMER,2002-7-2,2002-12-24
+7,Witch Hunter ROBIN,Witch Hunter ROBIN,26.0,FINISHED,68,18157,204,"Action, Drama, Mystery, Supernatural","Sunrise, Bandai Visual, Bandai Entertainment",ORIGINAL,SUMMER,2002-7-2,2002-12-24
 8,Bouken Ou Beet,Beet the Vandel Buster,52.0,FINISHED,65,2555,29,"Adventure, Fantasy, Supernatural","Toei Animation, Dentsu, TV Tokyo",MANGA,FALL,2004-9-30,2005-9-29
-15,Eyeshield 21,Eyeshield 21,145.0,FINISHED,76,28520,663,"Action, Comedy, Sports","Studio Gallop, NAS, Nihon Ad Systems, Sentai Filmworks, TV Tokyo Music, Animation Planet",MANGA,SPRING,2005-4-6,2008-3-19
-16,Hachimitsu to Clover,Honey and Clover,24.0,FINISHED,76,49595,817,"Comedy, Drama, Romance, Slice of Life","J.C. Staff, Nomad, Genco, Viz Media, Asmik Ace, Dentsu, Discotek, Fuji TV",MANGA,SPRING,2005-4-15,2005-9-27
+15,Eyeshield 21,Eyeshield 21,145.0,FINISHED,76,28520,662,"Action, Comedy, Sports","Studio Gallop, NAS, Nihon Ad Systems, Sentai Filmworks, TV Tokyo Music, Animation Planet",MANGA,SPRING,2005-4-6,2008-3-19
+16,Hachimitsu to Clover,Honey and Clover,24.0,FINISHED,76,49595,816,"Comedy, Drama, Romance, Slice of Life","J.C. Staff, Nomad, Genco, Viz Media, Asmik Ace, Dentsu, Discotek, Fuji TV",MANGA,SPRING,2005-4-15,2005-9-27
 17,Hungry Heart: Wild Striker,,52.0,FINISHED,71,4066,71,"Comedy, Slice of Life, Sports","Nippon Animation, Fuji TV",MANGA,FALL,2002-9-11,2003-9-10
-18,Initial D FOURTH STAGE,Initial D 4th Stage,24.0,FINISHED,80,39032,769,"Action, Drama, Sports","OB Planning, Funimation, A.C.G.T., Studio Jack",MANGA,SPRING,2004-4-17,2006-2-18
-19,MONSTER,Monster,74.0,FINISHED,88,249214,17493,"Drama, Horror, Mystery, Psychological, Thriller","MADHOUSE, VAP, Viz Media, Nippon Television Network",MANGA,SPRING,2004-4-7,2005-9-28
-20,NARUTO,Naruto,220.0,FINISHED,79,571389,27302,"Action, Adventure, Comedy, Drama, Fantasy, Supernatural","Studio Pierrot, TV Tokyo, Aniplex, Viz Media, Shueisha, KSS, SME Visual Works, Rakuonsha",MANGA,FALL,2002-10-3,2007-2-8
-21,ONE PIECE,ONE PIECE,,RELEASING,88,567668,82276,"Action, Adventure, Comedy, Drama, Fantasy","Toei Animation, Funimation, Fuji TV, 4Kids Entertainment, TAP, Asatsu DK, Magic Bus, Mushi Production, Studio Guts, Asahi Production, Avex Pictures",MANGA,FALL,1999-10-20,None-None-None
+18,Initial D FOURTH STAGE,Initial D 4th Stage,24.0,FINISHED,80,39032,770,"Action, Drama, Sports","OB Planning, Funimation, A.C.G.T., Studio Jack",MANGA,SPRING,2004-4-17,2006-2-18
+19,MONSTER,Monster,74.0,FINISHED,88,249214,17502,"Drama, Horror, Mystery, Psychological, Thriller","MADHOUSE, VAP, Viz Media, Nippon Television Network",MANGA,SPRING,2004-4-7,2005-9-28
+20,NARUTO,Naruto,220.0,FINISHED,79,571389,27314,"Action, Adventure, Comedy, Drama, Fantasy, Supernatural","Studio Pierrot, TV Tokyo, Aniplex, Viz Media, Shueisha, KSS, SME Visual Works, Rakuonsha",MANGA,FALL,2002-10-3,2007-2-8
+21,ONE PIECE,ONE PIECE,,RELEASING,88,567668,82301,"Action, Adventure, Comedy, Drama, Fantasy","Toei Animation, Funimation, Fuji TV, 4Kids Entertainment, TAP, Asatsu DK, Magic Bus, Mushi Production, Studio Guts, Asahi Production, Avex Pictures",MANGA,FALL,1999-10-20,None-None-None
 22,Tennis no Ouji-sama,The Prince of Tennis,178.0,FINISHED,75,30164,623,"Action, Comedy, Sports","Production I.G, Trans Arts, Viz Media, NAS, Funimation",MANGA,FALL,2001-10-10,2005-3-23
 23,Ring ni Kakero 1,,12.0,FINISHED,60,1381,18,"Action, Sports","Toei Animation, Marvelous Entertainment",MANGA,FALL,2004-10-6,2004-12-15
-24,School Rumble,School Rumble,26.0,FINISHED,76,49966,977,"Comedy, Romance, Slice of Life","TV Tokyo, Sotsu, Marvelous Entertainment, Starchild Records, Funimation, Media Factory, Studio Comet, DAX Production, Studio Jack",MANGA,FALL,2004-10-5,2005-3-29
-25,Sunabouzu,Desert Punk,24.0,FINISHED,68,23793,303,"Action, Adventure, Comedy, Ecchi, Sci-Fi","GONZO, GDH, Funimation, Pony Canyon, CBC",MANGA,FALL,2004-10-6,2005-3-30
-26,TEXHNOLYZE,Texhnolyze,22.0,FINISHED,77,64756,2359,"Action, Drama, Psychological, Sci-Fi","MADHOUSE, Group TAC, Funimation, Rondo Robe, Fuji TV, Pioneer LDC",ORIGINAL,SPRING,2003-4-17,2003-9-25
-27,Trinity Blood,Trinity Blood,24.0,FINISHED,67,22779,276,"Action, Drama, Horror, Sci-Fi, Supernatural","GONZO, Funimation",LIGHT_NOVEL,SPRING,2005-4-29,2005-10-28
+24,School Rumble,School Rumble,26.0,FINISHED,76,49966,975,"Comedy, Romance, Slice of Life","TV Tokyo, Sotsu, Marvelous Entertainment, Starchild Records, Funimation, Media Factory, Studio Comet, DAX Production, Studio Jack",MANGA,FALL,2004-10-5,2005-3-29
+25,Sunabouzu,Desert Punk,24.0,FINISHED,68,23793,304,"Action, Adventure, Comedy, Ecchi, Sci-Fi","GONZO, GDH, Funimation, Pony Canyon, CBC",MANGA,FALL,2004-10-6,2005-3-30
+26,TEXHNOLYZE,Texhnolyze,22.0,FINISHED,77,64756,2362,"Action, Drama, Psychological, Sci-Fi","MADHOUSE, Group TAC, Funimation, Rondo Robe, Fuji TV, Pioneer LDC",ORIGINAL,SPRING,2003-4-17,2003-9-25
+27,Trinity Blood,Trinity Blood,24.0,FINISHED,67,22779,279,"Action, Drama, Horror, Sci-Fi, Supernatural","GONZO, Funimation",LIGHT_NOVEL,SPRING,2005-4-29,2005-10-28
 28,Yakitate!! Japan,,69.0,FINISHED,75,16901,283,Comedy,"Sunrise, TV Tokyo, Aniplex, d-rights",MANGA,FALL,2004-10-12,2006-3-14
-29,Zipang,,26.0,FINISHED,71,5341,54,"Action, Sci-Fi","NBCUniversal Entertainment Japan, Studio DEEN, Marvelous Entertainment",MANGA,FALL,2004-10-7,2005-3-31
-30,Shin Seiki Evangelion,Neon Genesis Evangelion,26.0,FINISHED,83,378656,30486,"Action, Drama, Mecha, Mystery, Psychological, Sci-Fi","Gainax, TV Tokyo, ADV Films, Kadokawa Shoten, NAS, Tatsunoko Production, GKids, Madman Entertainment",ORIGINAL,FALL,1995-10-3,1996-3-27
-33,Kenpuu Denki Berserk,Berserk,25.0,FINISHED,84,131589,8113,"Action, Adventure, Drama, Fantasy, Horror, Supernatural","OLM, VAP, Media Blasters, NYAV Post, Nippon Television Network, Hakusensha",MANGA,FALL,1997-10-7,1998-3-31
-45,Rurouni Kenshin: Meiji Kenkaku Romantan,Rurouni Kenshin,94.0,FINISHED,79,75415,2167,"Action, Adventure, Comedy, Drama, Romance","Studio Gallop, Studio DEEN, SME Visual Works, Fuji TV, Media Blasters, Aniplex of America",MANGA,WINTER,1996-1-10,1998-9-8
+29,Zipang,,26.0,FINISHED,71,5341,53,"Action, Sci-Fi","NBCUniversal Entertainment Japan, Studio DEEN, Marvelous Entertainment",MANGA,FALL,2004-10-7,2005-3-31
+30,Shin Seiki Evangelion,Neon Genesis Evangelion,26.0,FINISHED,83,378656,30498,"Action, Drama, Mecha, Mystery, Psychological, Sci-Fi","Gainax, TV Tokyo, ADV Films, Kadokawa Shoten, NAS, Tatsunoko Production, GKids, Madman Entertainment",ORIGINAL,FALL,1995-10-3,1996-3-27
+33,Kenpuu Denki Berserk,Berserk,25.0,FINISHED,84,131589,8122,"Action, Adventure, Drama, Fantasy, Horror, Supernatural","OLM, VAP, Media Blasters, NYAV Post, Nippon Television Network, Hakusensha",MANGA,FALL,1997-10-7,1998-3-31
+45,Rurouni Kenshin: Meiji Kenkaku Romantan,Rurouni Kenshin,94.0,FINISHED,79,75415,2168,"Action, Adventure, Comedy, Drama, Romance","Studio Gallop, Studio DEEN, SME Visual Works, Fuji TV, Media Blasters, Aniplex of America",MANGA,WINTER,1996-1-10,1998-9-8
 48,.hack//SIGN,.hack//Sign,26.0,FINISHED,65,28849,469,"Adventure, Fantasy, Mystery, Sci-Fi","Bee Train, Bandai Visual, Yomiko Advertising, Bandai, CyberConnect2, Bandai Entertainment",ORIGINAL,SPRING,2002-4-4,2002-9-26
 50,Aa! Megami-sama! (TV),Oh! My Goddess (TV),24.0,FINISHED,69,21192,255,"Comedy, Romance, Supernatural","Bandai Visual, AIC, TBS, Media Blasters, NYAV Post",MANGA,WINTER,2005-1-7,2005-7-8
 52,Kidou Tenshi Angelic Layer,Angelic Layer,26.0,FINISHED,69,9308,127,"Comedy, Drama, Sci-Fi, Sports","bones, TV Tokyo Music, Sentai Filmworks",MANGA,SPRING,2001-4-1,2001-9-23
 53,Ai Yori Aoshi,Ai Yori Aoshi,24.0,FINISHED,67,15032,114,"Comedy, Drama, Romance, Slice of Life","J.C. Staff, Funimation, Movic, Fuji TV, Pioneer LDC, Cosmic Ray",MANGA,SPRING,2002-4-11,2002-9-26
 55,Arc the Lad,,26.0,FINISHED,61,2487,18,"Action, Adventure, Fantasy, Horror, Sci-Fi","Bee Train, Sony Pictures Entertainment, Aniplex, ADV Films",VIDEO_GAME,SPRING,1999-4-5,1999-9-11
-56,Avenger,,13.0,FINISHED,55,2943,17,"Adventure, Fantasy, Sci-Fi","Bee Train, Bandai Entertainment, Yomiuri Advertising",ORIGINAL,FALL,2003-10-2,2003-12-25
+56,Avenger,,13.0,FINISHED,55,2943,18,"Adventure, Fantasy, Sci-Fi","Bee Train, Bandai Entertainment, Yomiuri Advertising",ORIGINAL,FALL,2003-10-2,2003-12-25
 57,BECK,Beck: Mongolian Chop Squad,26.0,FINISHED,80,65179,2244,"Comedy, Drama, Music, Slice of Life","MADHOUSE, Marvelous Entertainment, Starchild Records, Funimation, Asatsu DK, Kodansha",MANGA,FALL,2004-10-6,2005-3-30
 58,BLUE GENDER,Blue Gender,26.0,FINISHED,66,13356,132,"Adventure, Drama, Horror, Mecha, Psychological, Romance, Sci-Fi","AIC, Funimation, Youmex, Toshiba EMI",ORIGINAL,FALL,1999-10-8,2000-3-31
-59,Chobits,Chobits,26.0,FINISHED,70,72756,1439,"Comedy, Drama, Ecchi, Romance, Sci-Fi","MADHOUSE, NBCUniversal Entertainment Japan, Funimation, TBS, Pioneer LDC",MANGA,SPRING,2002-4-3,2002-9-25
+59,Chobits,Chobits,26.0,FINISHED,70,72756,1440,"Comedy, Drama, Ecchi, Romance, Sci-Fi","MADHOUSE, NBCUniversal Entertainment Japan, Funimation, TBS, Pioneer LDC",MANGA,SPRING,2002-4-3,2002-9-25
 60,Chrno Crusade,Chrono Crusade,24.0,FINISHED,71,28031,328,"Action, Romance, Supernatural","GONZO, Funimation, Lantis, Kadokawa Shoten",MANGA,FALL,2003-11-24,2004-6-10
 61,D.N.Angel,D.N.Angel,26.0,FINISHED,66,19546,226,"Action, Comedy, Fantasy, Romance","Xebec, ADV Films, Kadokawa Shoten, Discotek",MANGA,SPRING,2003-4-3,2003-9-25
 62,D.C.: Da Capo,D.C.~Da Capo~,26.0,FINISHED,62,11619,68,"Drama, Romance","feel., Lantis, ZEXCS",VISUAL_NOVEL,SUMMER,2003-7-5,2003-12-27
 63,DearS,DearS,12.0,FINISHED,59,19749,159,"Comedy, Ecchi, Romance, Sci-Fi","Bandai Visual, Hal Film Maker, Genco, Lantis, Daume, Discotek",MANGA,SUMMER,2004-7-11,2004-9-26
-64,Rozen Maiden,Rozen Maiden,12.0,FINISHED,70,31603,461,"Action, Comedy, Drama, Supernatural","Nomad, Mellow Head, Pony Canyon, Sentai Filmworks, Memory-Tech, Studio Jack",MANGA,FALL,2004-10-8,2004-12-24
+64,Rozen Maiden,Rozen Maiden,12.0,FINISHED,70,31603,463,"Action, Comedy, Drama, Supernatural","Nomad, Mellow Head, Pony Canyon, Sentai Filmworks, Memory-Tech, Studio Jack",MANGA,FALL,2004-10-8,2004-12-24
 65,Rozen Maiden: Träumend,Rozen Maiden: Dreaming,12.0,FINISHED,72,14472,140,"Action, Comedy, Drama","Nomad, Mellow Head, TBS, Sentai Filmworks",MANGA,FALL,2005-10-21,2006-1-27
 66,Azumanga Daiou THE ANIMATION,Azumanga Daioh,26.0,FINISHED,79,78946,3367,"Comedy, Slice of Life","J.C. Staff, Genco, Lantis, Imagica, TV Tokyo Music, Cosmic Ray, Sentai Filmworks, J.C. Staff",MANGA,SPRING,2002-4-9,2002-10-1
-67,Basilisk: Kouga Ninpouchou,Basilisk,24.0,FINISHED,71,26765,356,"Action, Adventure, Drama, Romance","GONZO, GDH, Funimation, Kodansha",MANGA,SPRING,2005-4-13,2005-9-21
-68,Black Cat,Black Cat,23.0,FINISHED,69,34767,433,"Adventure, Comedy, Sci-Fi","GONZO, GDH, Dentsu, Funimation, TBS",MANGA,FALL,2005-10-6,2006-3-30
+67,Basilisk: Kouga Ninpouchou,Basilisk,24.0,FINISHED,71,26765,357,"Action, Adventure, Drama, Romance","GONZO, GDH, Funimation, Kodansha",MANGA,SPRING,2005-4-13,2005-9-21
+68,Black Cat,Black Cat,23.0,FINISHED,69,34767,436,"Adventure, Comedy, Sci-Fi","GONZO, GDH, Dentsu, Funimation, TBS",MANGA,FALL,2005-10-6,2006-3-30
 69,CLUSTER EDGE,,25.0,FINISHED,55,1849,12,"Action, Fantasy, Sci-Fi","Sunrise, Bandai Visual, Sentai Filmworks, Sony Music Entertainment, Marvelous Interactive",ORIGINAL,FALL,2005-10-4,2006-3-28
 71,Full Metal Panic!,Full Metal Panic!,24.0,FINISHED,72,76552,1011,"Action, Comedy, Mecha, Sci-Fi","GONZO, Funimation, Kadokawa Shoten",LIGHT_NOVEL,WINTER,2002-1-8,2002-6-18
-72,Full Metal Panic? Fumoffu,Full Metal Panic? Fumoffu,12.0,FINISHED,77,38163,734,"Action, Comedy, Romance","Kyoto Animation, ADV Films, Funimation",LIGHT_NOVEL,SUMMER,2003-8-26,2003-10-18
+72,Full Metal Panic? Fumoffu,Full Metal Panic? Fumoffu,12.0,FINISHED,77,38163,733,"Action, Comedy, Romance","Kyoto Animation, ADV Films, Funimation",LIGHT_NOVEL,SUMMER,2003-8-26,2003-10-18
 73,Full Metal Panic! The Second Raid,Full Metal Panic! The Second Raid,13.0,FINISHED,76,35038,444,"Action, Mecha, Sci-Fi","Kyoto Animation, ADV Films, Funimation, Kadokawa Shoten, Kadokawa Pictures USA, Happinet Pictures",LIGHT_NOVEL,SUMMER,2005-7-14,2005-10-20
 74,Gakuen Alice,,26.0,FINISHED,73,15115,406,"Comedy, Drama, Fantasy, Supernatural","Aniplex, Group TAC, Sogo Vision, The Right Stuf International",MANGA,FALL,2004-10-30,2005-5-14
 75,Soukyuu no Fafner,Fafner,25.0,FINISHED,69,11200,144,"Drama, Mecha, Sci-Fi","Xebec, NBCUniversal Entertainment Japan, Funimation, TV Tokyo Music",ORIGINAL,SUMMER,2004-7-5,2004-12-27
 76,Mahou Shoujo Lyrical Nanoha,Magical Girl Lyrical Nanoha,13.0,FINISHED,71,23260,328,"Action, Comedy, Drama, Fantasy, Mahou Shoujo","Seven Arcs, Funimation, Omnibus Japan",ORIGINAL,FALL,2004-10-3,2004-12-26
 77,Mahou Shoujo Lyrical Nanoha A's,Magical Girl Lyrical Nanoha A's,13.0,FINISHED,78,13343,299,"Action, Comedy, Drama, Fantasy, Mahou Shoujo","Seven Arcs, Funimation",ORIGINAL,FALL,2005-10-2,2005-12-25
-79,SHUFFLE!,,24.0,FINISHED,65,39046,283,"Comedy, Drama, Ecchi, Fantasy, Romance","Xebec, Funimation, Lantis, Asread, Memory-Tech",VISUAL_NOVEL,SUMMER,2005-7-8,2006-1-6
+79,SHUFFLE!,,24.0,FINISHED,65,39046,282,"Comedy, Drama, Ecchi, Fantasy, Romance","Xebec, Funimation, Lantis, Asread, Memory-Tech",VISUAL_NOVEL,SUMMER,2005-7-8,2006-1-6
 80,Kidou Senshi Gundam,Mobile Suit Gundam,43.0,FINISHED,76,35063,1283,"Drama, Mecha, Sci-Fi","Sunrise, Bandai Entertainment",ORIGINAL,SPRING,1979-4-7,1980-1-26
