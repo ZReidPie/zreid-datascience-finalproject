@@ -32,3 +32,8 @@ clean:
 
 # Reinstall all dependencies
 reinstall: clean install
+
+# Run tests with pytest
+test:
+	@echo "Running tests with pytest..."
+	$(PYTHON) -m pytest --verbose --disable-warnings
